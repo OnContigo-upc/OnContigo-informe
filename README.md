@@ -23,7 +23,7 @@
 | Diego Jose Acuña Gomez          | U20201C794 |
 | Gustavo Adolfo Pardo Zapata    | U202120347|
 |   Juan Pablo Ramos Mendoza  | U202019545 |
-| Renzo Manuel Ramos Ramirez |  U2020113745|-
+| Renzo Manuel Ramos Ramirez |  U202113745|-
 
 <br>
 <br>
