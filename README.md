@@ -183,3 +183,35 @@
       </ul>
    </ul>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+# **Capítulo II: Requirements Elicitation & Analysis**
+
+## 2.1. Competidores.
+
+|Logo|Decripción| 
+|----|----------| 
+| ![Logo de OncorAPP](https://play-lh.googleusercontent.com/dAY2RDmG74GKOkSTSqZ4iu9VweO-zsB55NRu9t_-B9ejvTe_pbH2SzsH2qnSWajSq50=w240-h480-rw)| Aplicacion diseñada para ayudar a los pacientes oncologicos el cual les permite gestionar su tratamiento y cuidado. Proporcion recordatorios de medicamentos y citas médicas,asi como recursos de apoyo|
+
+|Logo|Decripción| 
+|----|----------| 
+| ![Logo de Outcome4Me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcms_Lt1_tg93QzEuIKqzszldW8dBFnuC65_R1i7Or&s)| Aplicacion destinada a ayudar a las personas afectadas por el cáncer. Ofrece información sobre opciones de tratamientos,ensayos clínicos, calidad de vida y coordinar su atención médica|
+
+**2.1.1. Análisis competitivo.**
+
+|Competitice Analysis Landscape | 
+|-------------------------------|
+
+
+     
+**2.1.2. Estrategias y tácticas frente a competidores.**
+FODA
