@@ -101,7 +101,6 @@ Con el problema de la falta de información sobre medicamentos y tratamientos y 
 - La implementación de esta aplicación promovería una mayor seguridad y comodidad durante la estancia hospitalaria de los pacientes con cáncer.
 - Contribuiría a reducir el estrés experimentado por los pacientes y sus familiares
 - Facilitará una mejor organización para los médicos tratantes en la gestión de sus múltiples casos.
-
          <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
   **Hypothesis 1:**
 
