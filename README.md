@@ -51,6 +51,12 @@
                <td>Acuña, Diego</td>
                <td>Caratula del informe</td>
             </tr>
+            <tr>
+               <td>0.2</td>
+               <td>04/04/2024</td>
+               <td>Ramos, Juan Pablo</td>
+               <td>Lean UX Process</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -87,8 +93,8 @@ Con el problema de la falta de información sobre medicamentos y tratamientos y 
 **Business Assumptions:**
 
 - Creemos que los pacientes oncológicos valoran el acceso fácil y rápido a información detallada sobre sus tratamientos, incluyendo procedimientos, efectos secundarios y cuidados posteriores.
-- ` `Creemos que los familiares de los pacientes oncológicos se beneficiarían de una mayor comprensión de los tratamientos y de la especialización de los médicos tratantes, lo que les proporcionaría un sentido de seguridad y reduciría su ansiedad sobre el bienestar del paciente.
-- ` `Creemos que la organización eficiente de citas, fechas de tratamientos y otros datos relacionados con el tratamiento oncológico es crucial para mejorar la experiencia de los pacientes, sus familiares y los médicos tratantes, y una aplicación puede ser una herramienta efectiva para lograr esto.
+- Creemos que los familiares de los pacientes oncológicos se beneficiarían de una mayor comprensión de los tratamientos y de la especialización de los médicos tratantes, lo que les proporcionaría un sentido de seguridad y reduciría su ansiedad sobre el bienestar del paciente.
+- Creemos que la organización eficiente de citas, fechas de tratamientos y otros datos relacionados con el tratamiento oncológico es crucial para mejorar la experiencia de los pacientes, sus familiares y los médicos tratantes, y una aplicación puede ser una herramienta efectiva para lograr esto.
 
 **Business Outcomes:**
 
