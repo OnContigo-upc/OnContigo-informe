@@ -108,7 +108,7 @@ Con el problema de la falta de información sobre medicamentos y tratamientos y 
 - Contribuiría a reducir el estrés experimentado por los pacientes y sus familiares
 - Facilitará una mejor organización para los médicos tratantes en la gestión de sus múltiples casos.
          <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
-  **Hypothesis 1:**
+**Hypothesis 1:**
 
 Creemos que la implementación de esta aplicación (con calendarios y alarmas personalizables) para los tratamientos, podría reducir significativamente el estrés de los pacientes oncológicos, sus familiares y los oncólogos, al disminuir la preocupación por olvidar o confundir fechas importantes. Será considerado un éxito cuando, en entrevistas posteriores, al menos el 70% de los usuarios reporten una mejora en su estado emocional.
 
