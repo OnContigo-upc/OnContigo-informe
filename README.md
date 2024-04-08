@@ -133,10 +133,24 @@ Creemos que los oncólogos como médicos encargados del cuidado de pacientes con
          <img src="content/images/random/LeanUXCanvas.png" >
       </ul>
    </ul>
-   <il><h3><a href="./content/chapter-1/4-segmento-objetivo.md">1.3. Segmentos objetivo</a></h3></il>
+<ul style="list-style-type: none;">
+   <li><h3><a href="./content/chapter-1/4-segmento-objetivo.md">1.3. Segmentos objetivo</a></h3></li>
+    Dentro del marco de nuestra propuesta innovadora, hemos detectado segmentos fundamentales que están vinculados al ámbito problemático que abordamos.
 
-<il><h1><a href="./content/chapter-2/1-competidores.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
-<il><h3><a href="./content/chapter-2/1-competidores.md">2.1. Competidores</a></h3></il>
+- Pacientes con tratamientos oncológicos
+
+    Características demográficas:
+
+    Nuestro enfoque se dirige a pacientes de sexo femenino o masculino de todas las edades que están enfrentando o han enfrentado diagnósticos relacionados con el cáncer en el territorio peruano. Todos aquellos que dispongan de un teléfono inteligente e internet para poder hacer uso de la aplicación.
+
+- Médicos oncólogos
+
+    Características demográficas:
+
+    Nos dirigimos a médicos especializados en oncología que ejercen en Perú y otros profesionales de la salud involucrados en el tratamiento del cáncer en el país. En este caso, de todos los niveles económicos.
+</ul>
+<li><h1><a href="./content/chapter-2/1-competidores.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
+<li><h3><a href="./content/chapter-2/1-competidores.md">2.1. Competidores</a></h3></li>
 
    <ul>
       <il><h3><a href="./content/chapter-2/1-competidores.md">2.1.1. Análisis competitivo</a></h3></il>
