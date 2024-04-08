@@ -66,9 +66,19 @@
    <li><h1><a href="./content/student-outcome.md">Student Outcome</a></h1></li>
    <li><h1><a href="./content/chapter-1/1-startup-profile.md">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1. Startup Profile</a></h3></li>
-   <ul>
+   <ul style="list-style-type: none;">
       <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.1.  Descripción de la Startup</a></h3></li>
-      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
+        OnContigo es una startup fundada por un grupo de estudiantes universitarios comprometidos con la transformación en el sector salud de Perú, en especial el ámbito de la oncología. Mediante la aplicación OnContigo buscamos mejorar la eficiencia y la calidad del cuidado oncológico tanto para los especialistas como para los pacientes.
+
+En OnContigo, nos enfocamos en asistir y optimizar el trabajo de los oncólogos al ofrecerles herramientas que simplifican la gestión de citas, el seguimiento de pacientes con cáncer. Con nuestra solución, los doctores pueden realizar un enfoque más directo y personalizado en los tratamientos de sus pacientes.
+
+Además, con OnContigo, los pacientes podrán registrar y/o revisar sus medicamentos para sus tratamientos, poder tener recordatorios de sus citas y poder gestionarlas y a su vez poder tener comunicación con su médico.
+
+- Misión: Nuestra misión es revolucionar el cuidado oncológico mediante tecnología innovadora, mejorando la vida de pacientes y profesionales de la salud.
+- Visión: Nuestra visión es ser líderes en la transformación digital del sector de la salud, creando un ecosistema global centrado en el paciente para el tratamiento del cáncer.
+</ul>
+<ul style="list-style-type: none;">
+      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h3></li>
    </ul>
    <li><h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3></li>
    <ul>
