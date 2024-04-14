@@ -199,8 +199,20 @@ Este grupo abarca a personas de todas las edades que han sido diagnosticadas con
       <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.1. User Personas</a></h3></il>
       <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.2. User Task Matrix</a></h3></il>
       <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.5. As-is Scenario Mapping</a></h3></il>
+      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
+En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/JzlFH
+ <img src="content/images/chapter-2/empathymap/Empathy-map-paciente.png" > 
+           Segmento objetivo: Oncólogos 
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v 
+<img src="content/images/chapter-2/empathymap/Empathy-map-doctor.png" >   
+            
+</ul>      
+<il><h3><a href="./content/chapter-2/chapter-2.md">2.3.5. As-is Scenario Mapping</a></h3></il>
    </ul>
 <il><h3><a href="./content/chapter-2/chapter-2.md">2.4. Ubiquitous Language</a></h3></il>
 
