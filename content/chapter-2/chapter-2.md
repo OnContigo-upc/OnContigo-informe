@@ -251,7 +251,98 @@
 <li>¿Cómo cree que una aplicación podría ayudarle a sentirse más apoyado y menos abrumado en su proceso de cuidado oncológico?</li>
 </ul>
       <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.2. Registro de entrevistas</a></h3></il>
+      
+**Enlace al video: [Registro de entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EeiGu0IcJhRClMfqP0iZWf0BpbnCvsxxMBspt8jwCPMvrg?e=DT4ljF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** <br>
+**Duración total:** 1:15:17
+
+
+**Entrevistado N°1 :** Diego Cancho Colla <br>
+**Segmento objetivo :** Paciente oncológicos y sus familiares <br>
+<img src="../images/chapter-2/InterviewsRegister/EnrevistaO1.png"/> <br>
+**Sexo:** Masculino <br>
+**Edad:** 21 años <br>
+**Ubicación en la que vive:** Villa Salvador <br> 
+**Acerca de la entrevista:** Estudiante Ing de software de la UPC <br>
+
+**Estado y Composición familiar:** Soltero y actualmente vive con sus padres, hermanos y su Abuelo <br>
+**Link:** [2024-04-05 20-58-50.mp4](https://drive.google.com/file/d/1lZ7OCZRKnd0YSSzvPQSGTW3M6EmxcoLP/view?usp=sharing) <br> 
+**Instante en el que inicia:** 0:20 <br>
+**Duración:** 14:21 <br> 
+**Resumen:** <br>
+Se destaca la importancia de la certificación y confianza en los profesionales de la salud, así como la necesidad de respuestas rápidas y actualizadas. El impacto emocional del cáncer en el paciente y su familia resalta la necesidad de apoyo psicológico. Además, se demanda una mayor personalización, incluyendo recordatorios específicos y acceso a información confiable sobre restricciones alimentarias. La simplicidad y facilidad de uso son esenciales, junto con una comunicación efectiva y regular entre pacientes y profesionales de la salud, incluido el reporte de estado de paciente. También se resalta la importancia de la seguridad y confidencialidad de la información médica, garantizando que la aplicación y servicio de salud sean seguros y protejan la privacidad de los usuarios. <br> <br>
+
+**Entrevistado N°2 :** Diego Cancho Colla <br>
+**Segmento objetivo :** Médico Oncólogo <br>
+<img src="../images/chapter-2/InterviewsRegister/EntrevistaO2.png"/> <br>
+**Sexo:** Masculino <br>  
+**Edad:** 45 años <br>
+**Acerca del entrevistado:** Médico radiólogo, jefe de la división de oncología en Resocentro, jefe de radiología del Hospital Nacional de Neoplásicas <br> 
+**Link:** <https://youtu.be/Z9bAmH7m_Wg> <br>  
+**Instante en el que inicia:** 14:21 <br> 
+**Duración:** 8:22 <br>
+**Resumen:** <br>
+El doctor explica un énfasis en una aplicación que sea de fácil uso y con información clara y útil sobre los medicamentos, tratamientos, etc. de los pacientes que presente información bibliográfica para demostrar su validez. Para los pacientes, el doctor explicó que una aplicación sobre los procesos de tratamiento oncológico debe tener a los pacientes como precedencia y mayor enfoque, con la información sobre sus medicamentos y la opción de declarar citas rápidamente siendo de gran importancia. <br>
+Con respecto a las herramientas que utiliza actualmente, los programas que brinda Resocentro son de gran ayuda ya que son altamente editables en respecto a la ubicación de la información sobre cada paciente, pero muchas de las ventajas que presenta actualmente solo aparecieron luego de muchas actualizaciones. Además de esto, no presenta formas de comunicarse con los pacientes, los médicos deben buscar el número del paciente en cada informe y luego utilizar herramientas externas para su comunicación, por lo que el doctor muestra interés en que nuestra aplicación permita el contacto directo a los pacientes a través de un solo botón. <br>
+
+**Entrevistado N°3 :** Verónica Mendoza Ibarra <br>
+**Segmento objetivo :** Pariente de paciente oncológico <br>
+<img src="../images/chapter-2/InterviewsRegister/EntrevistaO3.png"/> <br>
+**Sexo:** Femenino <br>
+**Edad:** 51 años <br>
+**Acerca de la entrevistada:** Profesora de contabilidad en la UPC <br>  
+**Link:** <https://youtu.be/IiqiypUi0YA> <br>
+**Instante en el que inicia:** 22:43 <br> 
+**Duración:** 10:26 <br> 
+**Resumen:** <br>
+La entrevistada explica que, a pesar de la falta de problemas para comunicarse con los médicos principales, esto se hacía por métodos externos a una aplicación dedicada a la salud. Además, hubo mucho problema para encontrar especialistas a parte de los médicos tratantes principales. La profesora muestra un gran interés en una aplicación que sirva para controlar y organizar la gran cantidad de información presentada por los tratamientos y medicamentos, los cuales causaron mucho estrés y confusión durante el tratamiento del familiar. La información adicional, como de los efectos secundarios de medicamentos, fue obtenida por páginas web, pero tuvo que buscar páginas de calidad ya que herramientas como Google muestran muchas páginas de baja fidelidad. <br>
+El aplicativo de la clínica donde el paciente fue internado fue de gran ayuda a la hora de recordatorios, pero este no se encontraba disponible durante la mayor parte del tratamiento y no presentaba más funcionalidades además de esta. <br>
+Finalmente, la entrevistada considera que una aplicación que sea rápida y de fácil uso, que permita el contacto directo con médicos y presente información de los tratamientos que el paciente está llevando hubiera sido de gran ayuda y le hubiera permitido evitar grandes momentos de estrés. <br>
+
+**Entrevistado N°4 :** Manuel Luis Ramos Silva <br>
+**Segmento objetivo :** Pariente de paciente oncológico <br>
+<img src="../images/chapter-2/InterviewsRegister/EntrevistaO4.png"/> <br>
+**Sexo:** Masculino <br> 
+**Edad:** 52 años <br>
+**Acerca de la entrevistada:** Asistente médico en Resocentro <br>  
+**Link:** <https://youtu.be/aXtOos-XHOY> <br> 
+**Instante en el que inicia:** 33:08 <br> 
+**Duración:** 17:41 <br>
+**Resumen:** El entrevistado menciona un gran interés e importancia sobre la comunicación directa con los médicos, explicando que la falta de esta usualmente se daba por la falta de conocimiento sobre la disponibilidad de los doctores. Además, el entrevistado repitió varias veces lo valioso que es la información durante el tratamiento del paciente, como el estado en el que se encuentra, la información sobre efectos negativos de los medicamentos y cómo impactan al paciente, los estados de disponibilidad de los médicos explicado anteriormente y las fechas aproximadas de duración de las etapas del tratamiento. <br>
+El entrevistado menciona la gran falta de aplicaciones centradas en el tratamiento oncológico como uno de los mayores problemas, ya que el aplicativo de la clínica solo tenía funcionalidades básicas y fallaba varias veces al inicio del tratamiento. La aplicación de la clínica tampoco mostraba el estado de los medicamentos presentes dentro de la clínica, por lo que ocurrían mayores problemas al no conocer si es que se debería buscar lugares externos para conseguir los medicamentos requeridos. <br>
+El entrevistado explica que el estrés generado por la falta de conocimiento podría haber sido eliminado si es que se tuviera acceso directo a la información real del estado del pariente, ya que él solo podía buscar información por internet que no mostraba el estado real del pariente mientras no podría darle compañía debido a la pandemia. <br>
+
+**Entrevistado N°5 :** Rafael Ramirez <br>
+**Segmento objetivo :** Médico Oncólogo <br>
+<img src="../images/chapter-2/InterviewsRegister/EntrevistaO5.png"/> <br>
+**Sexo:** Masculino <br>  
+**Edad:** 34 años <br>  
+**Acerca de la entrevistada:** Médico Radiólogo en Oncosalud <br> 
+**Link:** <https://youtu.be/S-fBjnjccsQ> <br>
+**Instante en el que inicia:** 50:57 <br>  
+**Duración:** 14:48 <br>  
+**Resumen:** Una de las funcionalidades principales que el doctor menciona que una aplicación de salud que funcione entre los pacientes y médicos es que debería ser similar a una red social en el sentido que varios médicos puedan comunicarse entre sí sobre la información de un paciente, que los pacientes puedan reservar tiempos específicos para llamadas o videollamadas con los médicos y que puedan revisar los tiempos en los que los médicos estén utilizando el aplicativo. Además, el doctor resalta la importancia de que los pacientes puedan registrar información propia de los medicamentos y tratamientos que han recibido, como reacciones adversas a ciertos medicamentos para mostrarle a los médicos o incluso una línea de tiempo de los tratamientos recibidos por el paciente para que los médicos tratantes se encuentren actualizados. <br>
+El doctor menciona que las herramientas actuales que utiliza son de las clínicas en sí, pero toda comunicación con los pacientes es o con herramientas externas como llamadas telefónicas o a través de correos, con los pacientes requiriendo enviar correos a la cuenta de la empresa en sí para que luego sea enviado a los médicos. <br>
+Finalmente, el doctor vuelve a resaltar la importancia de que los datos como tratamientos anteriores y futuros que el paciente haya tenido y tendrá debería ser de fácil acceso para los médicos. <br>
+
+**Entrevistado N°6 :** Karina Rojas <br>
+**Segmento objetivo :** Médico Oncólogo <br>
+<img src="../images/chapter-2/InterviewsRegister/EntrevistaO6.png"/> <br>
+**Edad:** 52 años <br>  
+**Acerca de la entrevistada:** Médica oncóloga especializada en hematología <br>  
+**Link:** <https://youtu.be/ORYXzuijI_k> <br>
+**Instante en el que inicia:** 1:05:40 <br> 
+**Duración:** 9:37 <br> 
+**Resumen:** La doctora muestra un gran interés en que los pacientes oncológicos obtuvieran alertas y recordatorios de sus tratamientos y citas y en mejorar la facilidad en la que ellos pueden ingresar a dichas citas y tratamientos, usando como ejemplo que un médico simplemente encargue un análisis de sangre al paciente y que dicho paciente pueda obtener el análisis simplemente mostrando la cita del doctor. La doctora menciona que los pacientes oncológicos no presentan mucho apoyo actualmente, con la aplicación que utiliza al momento presentando una falta de opciones especiales en los pagos y citas para pacientes oncológicos. <br>
+La doctora también menciona que, actualmente, su única forma de tomar notas para todos los pacientes a quienes trata es con un cuaderno y con su asistente, quien se encarga de realizar llamadas como recordatorios y con quien comparte el cuaderno, causando mucho estrés por su parte al no conocer exactamente si es que los pacientes han recibido sus recordatorios o, incluso, si es que ambas tienen la misma información anotada, por lo que considera que una aplicación enfocada a la organización de los médicos oncólogos con comunicaciones directas a los pacientes ayudaría bastante en su trabajo. <br>
+Finalmente, menciona la importancia en que los pacientes puedan ver un cronograma de las fechas mostradas por los médicos, además de permitirle a los doctores un poco de privacidad, al realizar la comunicación entre ellos con los pacientes a través de la aplicación, ya que actualmente, usando los números personales, la comunicación convierte “el teléfono personal a uno no personal” al ser usado para contactar a todos los pacientes. <br>
       <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.3. Análisis de entrevistas</a></h3></il>
+Gracias a las entrevistas realizadas, se pueden identificar los siguientes puntos: <br>
+
+- De forma técnica, un uso fácil y rápido de la aplicación es de vital importancia, con énfasis en la facilidad de identificar las opciones de la aplicación. Además, podemos apreciar que los entrevistados piden una buena y sencilla comunicación entre los médicos tratantes y los pacientes, sin interrumpir la privacidad de ambos grupos.
+- La calidad de la información es mencionada varias veces por los entrevistados, con referencias bibliográficas sobre la información de las medicinas y tratamientos siendo un beneficio que una aplicación como la nuestra debería presentar. La información también debería ser bastante clara en la forma que es presentada, con las notas de los medicamentos y tratamientos y otras notas escritas por los médicos en sí presentando la información de una forma directa.
+- Los entrevistados del grupo de pacientes y parientes de pacientes mostraron gran énfasis en que, si una aplicación como OnContigo hubiera existido mientras ocurría el tratamiento oncológico completo, su estrés hubiera sido mínimo, principalmente por la información encontrada en la aplicación y sus herramientas organizativas.
+- Los médicos entrevistados, por otra parte, creen que una buena comunicación directa y una organización entre tantos pacientes reduciría en gran parte su estrés y les permitiría una mejor experiencia en el cuidado de tantos pacientes a la vez.
+- Los médicos entrevistados también mostraron un enfoque en la organización de tratamientos y medicamentos recibidos anteriormente por sus pacientes para evitar problemas futuros, como las reacciones alérgicas.
    </ul>
 <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3. Needfinding</a></h3></il>
    <ul>
