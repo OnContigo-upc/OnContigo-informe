@@ -172,8 +172,16 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
    </ul>
 <ul style="list-style-type: none;">
    <li><h3><a href="./content/chapter-1/chapter-1.md">1.3. Segmentos objetivo</a></h3></li>
+Dentro del marco de nuestra propuesta innovadora, hemos detectado segmentos fundamentales que están vinculados al ámbito problemático que abordamos.
+
+- Médicos Oncólogos:
+Este grupo incluye a profesionales médicos especializados en el tratamiento del cáncer, que trabajan en hospitales, clínicas oncológicas y consultorios privados en el Perú. Además, es importante destacar que estos médicos se enfrentan a una carga de trabajo intensa, con la necesidad de gestionar la información y los horarios de numerosos pacientes en un entorno altamente exigente.
+
+- Pacientes Oncológicos y Sus Familiares:
+Este grupo abarca a personas de todas las edades que han sido diagnosticadas con cáncer, así como a sus familiares y cuidadores que están involucrados en su proceso de tratamiento y recuperación. Todos comparten la necesidad de acceder a recursos y herramientas que faciliten la gestión de su enfermedad y mejoren su calidad de vida durante el tratamiento.
+
 </ul>
-<li><h1><a href="./content/chapter-2/chapter-2.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
+<il><h1><a href="./content/chapter-2/chapter-2.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
 <li><h3><a href="./content/chapter-2/chapter-2.md">2.1. Competidores</a></h3></li>
 
    <ul>
