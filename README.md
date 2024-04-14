@@ -141,6 +141,30 @@
                <td>Ramos, Juan Pablo </td>
                <td>Guidelines, Class Diagram y Database Diagram </td>
             </tr>
+            <tr>
+               <td>1.14</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Renzo </td>
+               <td>Wireflows </td>
+            </tr>
+            <tr>
+               <td>1.15</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Renzo </td>
+               <td>User Flows </td>
+            </tr>
+            <tr>
+               <td>1.16</td>
+               <td>14/04/2024</td>
+               <td>Pardo, Gustavo </td>
+               <td>Wireframes</td>
+            </tr>
+            <tr>
+               <td>1.17</td>
+               <td>14/04/2024</td>
+               <td>Pardo, Gustavo </td>
+               <td>Mock ups</td>
+            </tr>
     </table>
 </span>
 </div>
