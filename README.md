@@ -241,10 +241,12 @@ En esta sección, se ha llevado a cabo la creación del impact mapping, partiend
 Segmento objetivo: Pacientes y familiares
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/i/qzusH
+<img src="content/images/chapter-3/impact-mapping/impact-map-paciente.png" >
 
 Segmento objetivo: Oncólogos 
 
 Link de UXPressia: https://uxpressia.com/w/mDdvz/i/f0s3H
+<img src="content/images/chapter-3/impact-mapping/impact-map-doctor.png" >
 
 </ul>
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
