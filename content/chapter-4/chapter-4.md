@@ -194,7 +194,7 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
 
    <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Añadir o eliminar paciente Medico.png"/><br> 
 
-**User Goal: Poder usar un chat privado con mi paciente**
+**User Goal: Poder usar un chat privado con un paciente**
 
    User Persona: Médico oncólogo
 
@@ -210,7 +210,7 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
 
    <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar Medicamento a paciente Medico.png"/><br> 
 
-**User Goal: Registrar tratamiento y procedimiento de un pacientes**
+**User Goal: Registrar tratamiento y procedimiento de un paciente**
 
    User Persona: Médico oncólogo
 
@@ -235,6 +235,40 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
    <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar una nueva cita Medico.png"/><br>   
       <il><h3><a href="./content/chapter-4//chapter-4.md">4.4.3. Web Applications Mock-ups</a></h3></il>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
+
+**User Goal: Registrar una nueva cita**
+
+   User Persona: Médico oncólogo
+
+   Explicación:Explicación: Cuando el usuario se encuentre en la menú de inicio. Va a hacer click en una opción llamada "Calendario". Después va a poder visualizar el calendario de las citas programadas. Finalmente tendrá que escoger un espacio libre en el calendario. Esto le dará acceso a una interfaz para elegir al paciente y escoger la modalidad de cita. En caso que haga click a un espacio lleno del calendario, solamente le mostrará los detalles de aquel horario ocupado.
+
+<img src="../images/chapter-4/information-architecture/diagrams/user-flow/Agendar cita Medico.jpeg"/><br> 
+
+**User Goal: Poder agregar y/o eliminar a pacientes en la lista**
+
+   User Persona: Médico oncólogo
+
+   Explicación: Cuando el usuario esté en la página principal, va ir a la "Lista de Pacientes". Luego podrá seleccionar un paciente y eliminarlo con el botón "Eliminar Paciente"
+
+   <img src="../images/chapter-4/information-architecture/diagrams/user-flow/Agregar o eliminar pacientes Medico.jpeg"/><br> 
+
+**User Goal: Poder usar un chat privado con un paciente**
+
+   User Persona: Médico oncólogo
+
+   Explicación: Cuando el usuario haga click en "Lista de pacientes", lo llevará a una tabla con sus pacientes y una lista de botones en la parte derecha. Tendrá que seleccionar un paciente y darle al botón "Ver detalles". Le aparecerá el perfil del paciente y un botón que dice "Chat". El usuario tendrá que pulsarlo para iniciar un chat con el paciente.
+
+<img src="../images/chapter-4/information-architecture/diagrams/user-flow/Chat Medico.png"/><br> 
+
+**User Goal: Registrar medicamentos de un paciente**
+
+   User Persona: Médico oncólogo
+
+   El usuario deberá hacer click en "Lista de pacientes", lo dirigirá a una tabla con sus pacientes y una lista de botones en la parte derecha. Tendrá que seleccionar un paciente y darle al botón "Recetar medicamento". Después le aparecerá una ventana emergente donde colocará toda la información acerca del medicamento. Si el usuario quiere crear un recordatorio, puede usar la alarma que se encuentra en la columna final de cada paciente.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/user-flow/Asignar medicinas y su respectiva alarma.jpeg"/><br> 
+
+
    </ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.6. Domain-Driven Software Architecture</a></h3></il>
