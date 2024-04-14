@@ -207,6 +207,52 @@ https://oncontigo-upc.github.io/Landing-Page/
       <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
       <ul>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.1. Sprint Planning 1</a></h3></il>
+         <table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>2024-04-5</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>04:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Servidor de Discord del Equipo</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Acuña Gomez Diego Jose</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Juan Pablo/ Diego Acuña / Belen Ramos / Renzo Ramos / Gustavo Pardo</td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es el funcionamiento de la Landing Page, tanto su visualización, el acceso a las redes sociales, el traslado en la Landing Page y la visualización de los canales de comunicación de la empresa.</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td></td>
+  </tr>
+</table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
