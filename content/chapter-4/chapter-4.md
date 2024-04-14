@@ -3,7 +3,25 @@
 
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1. General Style Guidelines</a></h3></il>
+<table><tr><th valign="bottom"><b>Aspecto</b></th><th valign="bottom"><b>Directrices</b></th></tr>
+<tr><td valign="top"><b>Nombre de la aplicación</b></td><td valign="top">OnContigo</td></tr>
+<tr><td rowspan="2" valign="top"><b>Identidad Visual</b></td><td valign="top"><p>La identidad visual de la aplicación se caracteriza por un símbolo delicado en forma de corazón o abrazo en tonos suaves, que transmite sensaciones de calma, esperanza y confianza. </p><p>Además, se utilizan colores vibrantes como el rojo para simbolizar la vitalidad y la fuerza de la vida, especialmente relacionados con la palabra "onco" de oncología. La palabra "contigo" se destaca en azul para transmitir una sensación de confianza, seguridad y serenidad, recordando el apoyo y la compañía de alguien cercano en momentos difíciles.</p></td></tr>
+<tr><td valign="top"><img src="../images/random/Logo_1.png"><img src="../images/random/Logo_2.png"></td></tr>
+<tr><td valign="top"><b>Diseño de la Interfaz</b></td><td valign="top"><p>La interfaz de la aplicación se ha diseñado con el objetivo de asegurar una navegación sencilla y accesible para usuarios de todas las edades y niveles de habilidad tecnológica. </p><p>Se ha implementado una estructura de menú lógica que facilita la ubicación de funciones y una navegación clara y fluida. Las funciones relacionadas se agrupan para simplificar la experiencia del usuario y garantizar una interacción intuitiva con la aplicación.</p></td></tr>
+<tr><td valign="top"><b>Diseño de Usuario (UX)</b></td><td valign="top"><p>Asegura una navegación clara y fluida mediante una estructura de menú lógica y concisa. </p><p>El contenido proporciona información precisa y actualizada, incluyendo detalles sobre los efectos secundarios con consejos para minimizar su impacto. Se presentan citas de fuentes confiables y testimonios para inspirar y brindar apoyo emocional.</p></td></tr>
+<tr><td valign="top"><b>Funcionalidad</b></td><td valign="top"><p>La aplicación ofrece diversas funcionalidades, como:</p><p>- Búsqueda de oncólogos para facilitar la ubicación de especialistas</p><p>- Herramientas de planificación para organizar citas y tratamientos</p><p>- Funciones de recordatorio y notificación para ayudar a los usuarios a mantenerse al día con sus compromisos médicos.</p></td></tr>
+<tr><td valign="top"><b>Comunicación</b></td><td valign="top">Se incluyen capacidades de chat y correo electrónico para una comunicación directa y rápida, así como un formulario de contacto para recibir comentarios y sugerencias de los usuarios, permitiendo una mejora continua del servicio.</td></tr>
+<tr><td valign="top"><b>Diseño Responsivo</b></td><td valign="top">La aplicación asegura compatibilidad con dispositivos móviles para una experiencia óptima en smartphones y tabletas.</td></tr>
+<tr><td valign="top"><b>Seguridad y Privacidad</b></td><td valign="top">Se implementan medidas de protección para garantizar la seguridad de los datos sensibles de los usuarios, cumpliendo rigurosamente con las regulaciones de privacidad vigentes para asegurar la confidencialidad de la información del usuario.</td></tr>
+<tr><td valign="top"><b>Actualizaciones y Mantenimiento</b></td><td valign="top">Se realizan actualizaciones periódicas de las bases de datos principales para mantener la información relevante y precisa, y se responde de manera oportuna a los problemas informados por los usuarios para garantizar una experiencia continua y sin interrupciones.</td></tr>
+<tr><td valign="top"><b>Promoción</b></td><td valign="top">Se desarrollan estrategias de marketing digital, incluyendo publicidades en redes sociales, para aumentar la visibilidad y el alcance de la aplicación, y se establecen colaboraciones estratégicas con organizaciones oncológicas para proporcionar recursos adicionales y apoyo a los usuarios.</td></tr>
+</table>
       <il><h3><a href="">4.1.2. Web Style Guidelines</a></h3></il>
+<table><tr><th valign="bottom"><b>Aspecto</b></th><th valign="bottom"><b>Directrices</b></th></tr></tr>
+<tr><td valign="top"><b>Tipografía</b></td><td valign="top">Se seleccionarán fuentes legibles y profesionales, priorizando la legibilidad sobre la llamatividad. Se optará por fuentes Sans Serif para una apariencia moderna y legible.</td></tr>
+<tr><td valign="top"><b>Colores</b></td><td valign="top">Se utilizarán colores suaves y reconfortantes, como azul, rojo y rosa asociados con la tranquilidad, la empatía y el bienestar.</td></tr>
+<tr><td valign="top"><b>Espaciado y Diseño</b></td><td valign="top">Se mantendrá un diseño limpio y simple, con espaciado uniforme para crear equilibrio visual y márgenes amplios para evitar que el contenido se sienta abarrotado. El espaciado será de entre 1.5 y 2 veces el tamaño de la fuente para mejorar la legibilidad y comodidad visual.</td></tr>
+</table>
    </ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.2. Information Architecture</a></h3></il>
 En esta sección, definiremos la estructuración de nuestro producto para cada uno de nuestros
@@ -247,10 +265,12 @@ implementación
    </ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.7. Software Object-Oriented Design</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.1. Class Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.1. Class Diagrams</a></h3></il> <br>
+         <image src="../images/chapter-4/Class Diagram.png"> <br>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.2. Class Dictionary</a></h3></il>
    </ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.8. Database Design</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.8.1. Database Diagram</a></h3></il>
+            <image src="../images/chapter-4/Database_Model.png"> <br>
    </ul>
