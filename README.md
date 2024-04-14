@@ -129,6 +129,12 @@
                <td>Acuña, Diego </td>
                <td>Software Architecture Components Diagram </td>
             </tr>
+            <tr>
+               <td>1.12</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Juan Pablo </td>
+               <td>Registro y Análisis de Entrevistas </td>
+            </tr>
     </table>
 </span>
 </div>
