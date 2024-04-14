@@ -75,6 +75,12 @@
                <td>Acuña, Diego </td>
                <td>As-Is-Scenario-Mapping</td>
             </tr>
+            <tr>
+               <td>1.3</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>User Task Matrix</td>
+            </tr>
     </table>
 </span>
 </div>
