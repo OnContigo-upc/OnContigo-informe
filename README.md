@@ -123,6 +123,12 @@
                <td>Acuña, Diego </td>
                <td>Diseño de entrevistas </td>
             </tr>
+            <tr>
+               <td>1.11</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>Software Architecture Components Diagram </td>
+            </tr>
     </table>
 </span>
 </div>
