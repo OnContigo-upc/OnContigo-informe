@@ -69,6 +69,12 @@
                <td>Acuña, Diego </td>
                <td>Cambio de directorio del informe(Capítulo 1 y 2)</td>
             </tr>
+            <tr>
+               <td>1.2</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>As-Is-Scenario-Mapping</td>
+            </tr>
     </table>
 </span>
 </div>
