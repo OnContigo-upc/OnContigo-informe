@@ -105,6 +105,18 @@
                <td>Acuña, Diego </td>
                <td>Labeling Systems</td>
             </tr>
+            <tr>
+               <td>1.8</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>Searching Systems</td>
+            </tr> 
+            <tr>
+               <td>1.9</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td> Navigation Systems</td>
+            </tr>
     </table>
 </span>
 </div>

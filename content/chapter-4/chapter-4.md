@@ -92,8 +92,24 @@ de aumentar su visibilidad en los motores de búsqueda
 
   <img src="../images/chapter-4/information-architecture/meta-tags.png"/>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.4. Searching Systems</a></h3></il>
+      A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros
+usuarios a encontrar la información que están buscando.
+Para el Landing Page, no se ha implementado un sistema de búsqueda, ya que la información esta
+segmentada y enlaza con el menú principal. Por esto mismo, podrán buscar toda la información
+necesaria para poder identificar lo más importante de nuestra solución, como a que nos dedicamos o
+cuales son nuestros servicios o principalmente podrán buscar los contactos para que puedan
+comunicarse con nosotros.
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.5. Navigation Systems</a></h3></il>
-   </ul>
+    A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios
+    moverse a través de las distintas piezas de contenido o información.
+    Como se mencionó anteriormente en el Labeling Systems, contamos con cuatro “headings” en el
+    Landing Page entre los cuales tenemos a About us, Members, Our Services, Plans y Testimonials. Estas secciones son
+    ubicadas como un menú global horizontal a lo largo de la parte superior del Landing page, se dividió la
+    información en estas cuatro secciones con la finalidad de que el cliente no estuviera recorriendo hacia
+    abajo, a través de la barra de desplazamiento vertical, la inmensidad de información disponible. Esto le
+    facilitaría movilizarse a través de nuestro contenido. Por supuesto, la estrategia es que revise primero el
+    Home, dónde se encuentra la información más relevante y la que llamará más su atención, y luego viaje
+    a través del resto del menú de izquierda a derecha
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.3. Landing Page UI Design</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.1. Landing Page Wireframe</a></h3></il>
