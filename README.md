@@ -135,6 +135,36 @@
                <td>Ramos, Juan Pablo </td>
                <td>Registro y Análisis de Entrevistas </td>
             </tr>
+            <tr>
+               <td>1.13</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Juan Pablo </td>
+               <td>Guidelines, Class Diagram y Database Diagram </td>
+            </tr>
+            <tr>
+               <td>1.14</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Renzo </td>
+               <td>Wireflows </td>
+            </tr>
+            <tr>
+               <td>1.15</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Renzo </td>
+               <td>User Flows </td>
+            </tr>
+            <tr>
+               <td>1.16</td>
+               <td>14/04/2024</td>
+               <td>Pardo, Gustavo </td>
+               <td>Wireframes</td>
+            </tr>
+            <tr>
+               <td>1.17</td>
+               <td>14/04/2024</td>
+               <td>Pardo, Gustavo </td>
+               <td>Mock ups</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -213,8 +243,23 @@ Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
 
 </ul>
 <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.2. User Task Matrix</a></h3></il>
-      <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></h3></il>
-      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
+      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></h3></il>
+En el proceso de desarrollo de OnContigo, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
+
+<img src="content/images/chapter-2/user-journeymap/user-journey-map-paciente.png" >
+
+Segmento objetivo: Oncólogos 
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
+
+<img src="content/images/chapter-2/user-journeymap/user-journey-map-doctor.png" >
+
+
+</ul>      
+<ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
 En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
 
 Segmento objetivo: Pacientes y familiares

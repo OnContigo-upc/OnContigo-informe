@@ -339,8 +339,22 @@ Gracias a las entrevistas realizadas, se pueden identificar los siguientes punto
    </ul>
 <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3. Needfinding</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
-      <il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
+      En esta sección, se presentan personajes ficticios, uno para cada segmento objetivo. La información empleada en la elaboración de los User personas proviene de entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue comprender mejor a las personas a las que está dirigida la aplicación. Entre la información extraída de las entrevistas se incluyen datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/tViVP
+<img src="../images/chapter-2/user-persona/User-persona-paciente.png" >
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
+
+<img src="../images/chapter-2/user-persona/User-persona-doctor.png" >
+
+</ul>
+<il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
       <table>
   <tr>
     <th>Tareas</th>
@@ -421,9 +435,37 @@ Gracias a las entrevistas realizadas, se pueden identificar los siguientes punto
   </tr>
   <!-- Agrega más filas según sea necesario -->
 </table>
+<ul style="list-style-type: none;">
       <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
-      <il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
-      <il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
+      En el proceso de desarrollo de OnContigo, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
+
+<img src="../images/chapter-2/user-journeymap/user-journey-map-paciente.png" >
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
+
+<img src="../images/chapter-2/user-journeymap/user-journey-map-doctor.png" >
+
+</ul>
+<ul style="list-style-type: none;">
+<il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
+      En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/JzlFH
+<img src="../images/chapter-2/empathymap/Empathy-map-paciente.png" >
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v
+<img src="../images/chapter-2/empathymap/Empathy-map-doctor.png" >
+
+</ul>
+<il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
 
 **Segmento:Pacientes**
   <img src="../images/chapter-2/asisscenario/paciente.png"/>

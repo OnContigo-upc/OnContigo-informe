@@ -246,21 +246,238 @@ https://oncontigo-upc.github.io/Landing-Page/
   </tr>
   <tr>
     <th>Sprint Velocity</th>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td></td>
+    <td>13</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
+         <table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th>User Story</th>
+    <th>Work-item/Task</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="4">Sprint 1</td>
+    <td rowspan="4">HU22: Visualización de Landing Page</td>
+    <td>TA01</td>
+    <td>#182062223</td>
+    <td>Agregar call-to-action hacia la Web App</td>
+    <td>Se creará un botón que dirija a la aplicación web en el inicio; asimismo, debe incluir un párrafo llamativo que acompañe a la opción.</td>
+    <td>2</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>#182062223</td>
+    <td>Añadir planes</td>
+    <td>Para la seccion de planes, se podra ver los planes que ofrece nuestra aplicacion.</td>
+    <td>2</td>
+    <td>Renzo Ramos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA03</td>
+    <td>#182062223</td>
+    <td>Mostrar servicio a clientes</td>
+    <td>Para la sección de ‘servicios para pacientes', se añadirá un listado que muestren los servicios que ofrece la app.</td>
+    <td>2</td>
+    <td>Juan Ramos</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>TA04</td>
+    <td>#182062273</td>
+    <td>Mostrar miembros y sobre nosotros</td>
+    <td>Para la sección de sobre nosotros, explicara nuestra mision y vision de equipo. Tambien la seccion miembros, sobre quienes son los que conforman el grupo</td>
+    <td>4</td>
+    <td>Alexandra Ramos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Sprint 1</td>
+    <td rowspan="1">HU13: Contacto con OnContigo</td>
+    <td>TA01</td>
+    <td>#182062235</td>
+    <td>Añadir sección de footer</td>
+    <td>Se creará una sección al final del Landing Page que esté dedicada totalmente al contacto con la empresa.(footer)</td>
+    <td>2</td>
+    <td>Gustavo Pardo</td>
+    <td>Done</td>
+  </tr>
+ 
+</table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         En esta sección se presentan los avances de implementación con relación a los productos
+desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del
+Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda
+codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección
+services, goals, hero and footer. Con ello completamos el primer sprint de implementación.
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/meta-tags-global-styles/td>
+    <td>18400df</td>
+    <td>meta tags</td>
+    <td>feat:meta tags y estilos globales agregados</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/images</td>
+    <td>89f5c9d</td>
+    <td>images</td>
+    <td>feat:imagenes de la landing agregadas</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/header</td>
+    <td>fc6e906</td>
+    <td>feat: html y css del header</td>
+    <td>feat: html y css del header</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>ffeature/section-1</td>
+    <td>98b7af5</td>
+    <td>Feature/section 1</td>
+    <td>Feature/section 1</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td> Alexandra Ramos / Landing-Page</td>
+    <td>feature/section-aboutus-members</td>
+    <td>3baa605</td>
+    <td>feat: about us & members section added</td>
+    <td>feat: about us & members section added</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Juan Ramos/ Landing-Page</td>
+    <td>feature/ServicesAgain</td>
+    <td>9fa14f7</td>
+    <td>feat: Services Section Added #7
+</td>
+    <td>feat: Services Section Added #7
+</td>
+    <td>14/4/24</td>
+  </tr>
+ <tr>
+    <td>Renzo Ramos/ Landing-Page</td>
+    <td>feature/section-6-7</td>
+    <td>9fa14f7</td>
+    <td>feat: Section 6 & 7 agregado
+</td>
+    <td>feat: Section 6 & 7 agregado
+</td>
+    <td>14/4/24</td>
+  </tr>
+
+  <tr>
+    <td>Gustavo Pardo/ Landing-Page</td>
+    <td>feature/section-class</td>
+    <td>9fa14f7</td>
+    <td>feat: footer added
+</td>
+    <td>feat: footer added
+</td>
+    <td>14/4/24</td>
+  </tr>
+</table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
+Acceptance Tests automatizados, para Web Services
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         Vistas implementadas:
+         
+#### Desktop Web Browser
+ <img src="../images/chapter-5/execution-evidence/desktop.png"/>
+
+ #### About us
+ <img src="../images/chapter-5/execution-evidence/about-us.png"/>
+
+ #### Members
+ <img src="../images/chapter-5/execution-evidence/members.png"/>
+
+ #### Services
+ <img src="../images/chapter-5/execution-evidence/services.png"/>
+
+ #### Plans
+ <img src="../images/chapter-5/execution-evidence/plans.png "/>
+
+  #### Footer
+ <img src="../images/chapter-5/execution-evidence/footer.png"/>
+
+ Link Figma: https://www.figma.com/file/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=0-1&mode=design&t=HkEWLTZnf3N6FtXp-0
+<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints
+documentados con OpenAPI, relacionados con el alcance del Sprint y con web services.
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+        Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:
+https://oncontigo-upc.github.io/Landing-Page/
+<br>
+- Para el desarrollo del Landing Page de OnContigo se han utilizado las siguientes herramientas:
+    - Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+        Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido
+        realizado en su rama individual.
+     - Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale
+        Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
+    - JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page.
+        Evidencia: Se muestra el documento main.js.
+<br>
+- El despliegue del Landing Page de OnContigo no pudo ser posible sin utilizar las siguientes tecnologías:
+    - Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones.
+El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page
+    - Github: Plataforma de desarrollo colaborativo
+    - Git Flow:Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al
+desarrollo del Landing Page
+    -  Git Hub PagesServicio de Github que nos permitió alojar nuestra Landing page.
+- Asimismo, se han realizado los siguientes pasos:
+    - Dirigirse al repositorio de la página: Dado que se ha empleado Github, debemos ir al repositorio creado en este sitio web para publicar el Landing Page que ha desarrollado el equipo. Desde aquí, se podrá iniciar la configuración del vínculo de la página dirigiéndonos al apartado de Settings.
+    - Ir a la opción de páginas: Una vez presentes la configuración del repositorio, debemos dirigirnos a la sección de Pages. Esto se debe a que ahí se encuentran todas las opciones de configuración de publicación de la página en un link o vínculo
+
+    -   Elección de rama y carpeta de guardado: Dentro de pages, se debe seleccionar la rama o branch que se va a publicar en el vínculo. De la misma manera, se tiene que elegir la carpeta donde se localizará esta publicación a realizar. Finalmente podremos acceder a nuestra página con el link que aparece en la parte superior de este apartado de configuración
+
+-   Siguiendo los pasos, obtenemos el siguiente enlace:
+https://oncontigo-upc.github.io/Landing-Page/
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
+      Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.
+
+    Repositorio Principal: LandingPage:https://github.com/OnContigo-upc/Landing-Page
+    Landing Page: https://oncontigo-upc.github.io/Landing-Page/
+    
+    Integrantes:
+<br>
+ <img src="../images/chapter-5/team-collaboration/overview.png"/>
+ <img src="../images/chapter-5/team-collaboration/members.png"/>
+<br><br>
+ Insights Github
+ <br>
+  <img src="../images/chapter-5/team-collaboration/commits.png"/>
+  <img src="../images/chapter-5/team-collaboration/branches.png"/>
+  <img src="../images/chapter-5/team-collaboration/network.png "/>
+
    </ul>
        <il><h3><a href="./content/chapter-5/chapter-5.md">5.3 Validation Interviews</a></h3></il>
       <ul>
