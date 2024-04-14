@@ -294,6 +294,31 @@ Creemos que los oncólogos como médicos encargados del cuidado de pacientes con
   </tr>
 </table>
       <il><h3><a href="./content/chapter-2/1-competidores.md">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
+      
+**Estrategias:**
+
+**Desarrollo de una Interfaz de Usuario Intuitiva y Amigable:** <br>
+**Estrategia:** Mejorar la interacción del usuario mediante una interfaz intuitiva y amigable, para contrarrestar la falta de interacción directa con el usuario identificada como una debilidad.<br>
+**Táctica:** Realizar pruebas de usabilidad y obtener retroalimentación de los usuarios para iterar en el diseño de la interfaz y mejorar la experiencia del usuario.
+
+**Modelo de Negocio Sostenible:** <br>
+**Estrategia:** Explorar modelos de negocio que garanticen la sostenibilidad financiera a largo plazo, considerando la limitación de mantener la aplicación gratuita identificada como una debilidad.<br>
+**Táctica:** Investigar la viabilidad de ofrecer servicios premium o suscripciones pagas con funciones adicionales y beneficios exclusivos.
+
+**Tácticas:**
+
+**Mejorar la Comunicación Médico-Paciente:**<br>
+**Estrategia:** Mejorar la comunicación directa entre médicos y pacientes, que actualmente falta en la aplicación, para satisfacer mejor las necesidades de los usuarios.<br>
+**Táctica:** Desarrollar una función de mensajería o chat en tiempo real dentro de la aplicación que permita a los usuarios comunicarse fácilmente con sus médicos para consultas y seguimiento.
+
+**Aprovechar la Escasez de Plataformas de Comunicación Médico-Paciente:**<br>
+**Estrategia:** Capitalizar la oportunidad identificada en la falta de plataformas que faciliten la comunicación entre médicos y pacientes.<br>
+**Táctica:** Promocionar activamente la función de comunicación médico-paciente de la aplicación a través de campañas de marketing dirigidas.
+
+**Invertir en Marketing y Promoción:**<br>
+**Estrategia:** Incrementar las estrategias de marketing y promoción, como webinars y videos, para aumentar la visibilidad y la adopción de la aplicación.<br>
+**Táctica:** Colaborar con médicos en el campo de la oncología para promover la aplicación y organizar eventos de lanzamiento y charlas informativas.
+  
    </ul>
 <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2. Entrevistas</a></h3></il>
    <ul>
@@ -394,35 +419,6 @@ Creemos que los oncólogos como médicos encargados del cuidado de pacientes con
       </ul>
    </ul>
 </ul>
+ 
 
 
-
-
-
-
-
-
-
-
-
-# **Capítulo II: Requirements Elicitation & Analysis**
-
-## 2.1. Competidores.
-
-|Logo|Decripción| 
-|----|----------| 
-| ![Logo de OncorAPP](https://play-lh.googleusercontent.com/dAY2RDmG74GKOkSTSqZ4iu9VweO-zsB55NRu9t_-B9ejvTe_pbH2SzsH2qnSWajSq50=w240-h480-rw)| Aplicacion diseñada para ayudar a los pacientes oncologicos el cual les permite gestionar su tratamiento y cuidado. Proporcion recordatorios de medicamentos y citas médicas,asi como recursos de apoyo|
-
-|Logo|Decripción| 
-|----|----------| 
-| ![Logo de Outcome4Me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcms_Lt1_tg93QzEuIKqzszldW8dBFnuC65_R1i7Or&s)| Aplicacion destinada a ayudar a las personas afectadas por el cáncer. Ofrece información sobre opciones de tratamientos,ensayos clínicos, calidad de vida y coordinar su atención médica|
-
-**2.1.1. Análisis competitivo.**
-
-|Competitice Analysis Landscape | 
-|-------------------------------|
-
-
-     
-**2.1.2. Estrategias y tácticas frente a competidores.**
-FODA
