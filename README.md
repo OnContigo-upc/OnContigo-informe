@@ -93,6 +93,12 @@
                <td>Acuña, Diego </td>
                <td>SEO y Meta Tags</td>
             </tr>
+            <tr>
+               <td>1.5</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>Organization Systems</td>
+            </tr>
     </table>
 </span>
 </div>
