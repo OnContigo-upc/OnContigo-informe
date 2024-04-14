@@ -182,4 +182,10 @@
       <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
       <il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
       <il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
+
+**Segmento:Pacientes**
+  <img src="../images/chapter-2/asisscenario/paciente.png"/>
+
+ **Segmento:Doctor Oncologo**
+  <img src="../images/chapter-2/asisscenario/doctor.png"/> 
    </ul>
