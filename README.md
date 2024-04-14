@@ -81,6 +81,12 @@
                <td>Acuña, Diego </td>
                <td>User Task Matrix</td>
             </tr>
+            <tr>
+               <td>1.4</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>To-be-scenario mapping</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -133,11 +139,11 @@
    </ul>
 <il><h3><a href="./content/chapter-2/chapter-2.md">2.4. Ubiquitous Language</a></h3></il>
 
-<il><h1><a href="./content/chapter-3/1-to-be.md">Capítulo III: Requirements Specification</a></h1></il>
-<il><h3><a href="./content/chapter-3/1-to-be.md">3.1. To-Be Scenario Mapping</a></h3></il>
-<il><h3><a href="./content/chapter-3/2-user-stories.md">3.2. User Stories</a></h3></il>
-<il><h3><a href="./content/chapter-3/3-impact-mapping.md">3.3. Impact Mapping</a></h3></il>
-<il><h3><a href="./content/chapter-3/4-product-backlog.md">3.4. Product Backlog</a></h3></il>
+<il><h1><a href="./content/chapter-3/chapter-3.md">Capítulo III: Requirements Specification</a></h1></il>
+<il><h3><a href="./content/chapter-3/chapter-3.md">3.1. To-Be Scenario Mapping</a></h3></il>
+<il><h3><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></h3></il>
+<il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
+<il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
 
 <il><h1><a href="./content/chapter-4/1-style-guidelines.md">Capítulo IV: Product Design</a></h1></il>
 <il><h3><a href="./content/chapter-4/1-style-guidelines.md">4.1. Style Guidelines</a></h3></il>
