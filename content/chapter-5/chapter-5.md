@@ -318,6 +318,92 @@ https://oncontigo-upc.github.io/Landing-Page/
  
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         En esta sección se presentan los avances de implementación con relación a los productos
+desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del
+Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda
+codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección
+services, goals, hero and footer. Con ello completamos el primer sprint de implementación.
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/meta-tags-global-styles/td>
+    <td>18400df</td>
+    <td>meta tags</td>
+    <td>feat:meta tags y estilos globales agregados</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/images</td>
+    <td>89f5c9d</td>
+    <td>images</td>
+    <td>feat:imagenes de la landing agregadas</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>feature/header</td>
+    <td>fc6e906</td>
+    <td>feat: html y css del header</td>
+    <td>feat: html y css del header</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page</td>
+    <td>ffeature/section-1</td>
+    <td>98b7af5</td>
+    <td>Feature/section 1</td>
+    <td>Feature/section 1</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td> Alexandra Ramos / Landing-Page</td>
+    <td>feature/section-aboutus-members</td>
+    <td>3baa605</td>
+    <td>feat: about us & members section added</td>
+    <td>feat: about us & members section added</td>
+    <td>14/4/24</td>
+  </tr>
+  <tr>
+    <td>Juan Ramos/ Landing-Page</td>
+    <td>feature/ServicesAgain</td>
+    <td>9fa14f7</td>
+    <td>feat: Services Section Added #7
+</td>
+    <td>feat: Services Section Added #7
+</td>
+    <td>14/4/24</td>
+  </tr>
+ <tr>
+    <td>Renzo Ramos/ Landing-Page</td>
+    <td>feature/section-6-7</td>
+    <td>9fa14f7</td>
+    <td>feat: Section 6 & 7 agregado
+</td>
+    <td>feat: Section 6 & 7 agregado
+</td>
+    <td>14/4/24</td>
+  </tr>
+
+  <tr>
+    <td>Gustavo Pardo/ Landing-Page</td>
+    <td>feature/section-class</td>
+    <td>9fa14f7</td>
+    <td>feat: footer added
+</td>
+    <td>feat: footer added
+</td>
+    <td>14/4/24</td>
+  </tr>
+</table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
