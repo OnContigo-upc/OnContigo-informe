@@ -3,6 +3,10 @@
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.1. Software Configuration Management</a></h3></il>
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución
 
+   <ul>
+      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.1. Software Development Environment Configuration</a></h3></il>
+
+
 #### Requirements Management
 
 Es el proceso de garantizar que una organización documente, verifique y satisfaga las necesidades y expectativas de sus clientes con las partes interesadas internas o externas.
@@ -54,12 +58,50 @@ Estructura aplicada al desarrollo de un producto de software.
 
 - Github pages: Servicio para alojar páginas web estáticas y aplicaciones web.  
 [https://pages.github.com/](https://pages.github.com/)
-
-   <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.1. Software Development Environment Configuration</a></h3></il>
       <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Source Code Management</a></h3></il>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.4. Software Deployment Configuration</a></h3></il>
+A continuación, se presenta la gestión de código fuente o como es conocido por sus siglas en ingles SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizara a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se empleará como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
+
+    #### Enlaces Importantes
+
+    - **Organización en GitHub**: [OnContigo](https://github.com/OnContigo-upc)
+    - **Repositorio del Landing Page**: [OnContigo Landing Page](https://github.com/OnContigo-upc/Landing-Page)
+
+    #### GitFlow
+
+    GitFlow es un flujo de trabajo de control de versiones que facilita la gestión de ramas durante el desarrollo:
+
+    #### Main Branches
+
+    - `main`: Rama principal que contiene el historial de publicación oficial y todas las versiones.
+    - `develop`: Rama creada desde `main`, integra todas las funciones estables y prepara la próxima versión.
+
+    #### Support Branches
+
+    Estas ramas son temporales y se eliminan después de integrarse en sus ramas principales.
+
+    ##### Feature
+
+    - **Origen**: `develop`
+    - **Destino**: `develop`
+    - Se utilizan para el desarrollo de nuevas funcionalidades, existen mientras están en desarrollo y luego se integran a `develop`.
+
+    ##### Release
+
+    - **Origen**: `develop`
+    - **Destino**: `develop` / `main`
+    - Preparan la nueva versión de producción, corrigen errores menores y preparan metadatos para el lanzamiento.
+
+    #### Motivos para usar Gitflow
+
+    - Adecuado para proyectos con lanzamientos programados.
+    - Combina los beneficios de un flujo centralizado y descentralizado.
+    - Permite trabajo individual, ideal cuando el equipo tiene horarios diferentes.
+    - Requiere actualización constante en el repositorio central.
+
+    Cada miembro del equipo debe mantener su trabajo al día con el repositorio central en GitHub para garantizar la cohesión y el progreso del proyecto.
+<il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
+
+<il><h3><a href="./content/chapter-5/chapter-5.md">5.1.4. Software Deployment Configuration</a></h3></il>
    </ul>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
    <ul>
