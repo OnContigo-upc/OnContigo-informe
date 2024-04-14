@@ -148,6 +148,95 @@
 </br>
 <ul style="list-style-type: none;">
    <li><h1><a href="./content/student-outcome.md">Student Outcome</a></h1></li>
+   ## ABET – EAC - Student Outcome 5
+
+<table>
+   <thead>
+      <tr>
+         <th>Criterio específico</th>
+         <th>Acciones realizadas</th>
+         <th>Conclusiones</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td rowspan="5">Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
+      </tr>
+      <tr>
+         <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
+         </br>
+         <td rowspan="4">TB1: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente
+         </td>
+      </tr>
+      <tr>
+         <td><strong>Gustavo Pardo</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los , analisis de entrevistas en general, empathy map y Product backlog.
+         </br>
+         </td>
+      </tr>
+      <tr>
+         <td><strong>Alexandra Ramos</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.
+         </br>
+         </td>
+      </tr>
+      <tr>
+         <td><strong>Juan Ramos </strong></br>
+         </br><strong>TB1:</strong>
+         </br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
+<br><br>
+      <strong> Renzo Ramos</strong></br>TB1:</strong>
+         </br>Para esta entrega me adherí al grupo hace poco tiempo y rápidamente cumplí con las tareas que se me asignaron. Participando activamente en el desarrollo de la landing page.
+      <br>
+      </td>
+      </br>
+      </tr>
+      <tr>
+         <td rowspan="5">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+      </tr>
+      <tr>
+         <td><strong>Diego Jose Acuña Gomez
+         </br>TB1:</strong>
+         </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
+         </br>
+        </td>
+         <td rowspan="4">T1: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado </td>
+      </tr>
+      <tr>
+         <td><strong>Juan Ramos
+         </br>TB1:</strong>
+         </br>Para esta entrega conocía la manera correcta de diseñar los style guidelines utilizando figma
+         </br></td>
+      </tr>
+      <tr>
+         <td><strong>Gustavo Pardo
+         </br>TB1:</strong>
+         </br>Para esta entrega conocia las herramientas para la elaboracion de user task matrix user journey mapping y empathy mapping.
+         </br></td>
+      </tr>
+      <tr>
+         <td><strong>Renzo Ramos
+         </br>TB1:</strong>
+         </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
+         </br>
+         <strong> Alexandra Ramos
+         </br>TB1:</strong>
+         </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
+         </br>
+         </br>
+         </td>
+      </tr>
+      
+   </tbody>
+</table>
+
+<div display="flex" align="right" >
+   </br></br>
+   &lt;
+   <a href="../README.md">Previous</a>
+   &boxh;
+   <a href="./chapter-1/1-startup-profile.md">Next</a>
+   &gt;
+   </br></br>
+</div>
    <li><h1><a href="./content/chapter-1/chapter-1.md">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="./content/chapter-1/chapter-1.md">1.1. Startup Profile</a></h3></li>
    <ul style="list-style-type: none;">
