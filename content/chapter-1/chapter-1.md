@@ -95,15 +95,9 @@ Creemos que los oncólogos como médicos encargados del cuidado de pacientes con
    <li><h3><a href="./content/chapter-1/4-segmento-objetivo.md">1.3. Segmentos objetivo</a></h3></li>
     Dentro del marco de nuestra propuesta innovadora, hemos detectado segmentos fundamentales que están vinculados al ámbito problemático que abordamos.
 
-- Pacientes con tratamientos oncológicos
+- Médicos Oncólogos:
+  Este grupo incluye a profesionales médicos especializados en el tratamiento del cáncer, que trabajan en hospitales, clínicas oncológicas y consultorios privados en el Perú. Además, es importante destacar que estos médicos se enfrentan a una carga de trabajo intensa, con la necesidad de gestionar la información y los horarios de numerosos pacientes en un entorno altamente exigente.
 
-    Características demográficas:
-
-    Nuestro enfoque se dirige a pacientes de sexo femenino o masculino de todas las edades que están enfrentando o han enfrentado diagnósticos relacionados con el cáncer en el territorio peruano. Todos aquellos que dispongan de un teléfono inteligente e internet para poder hacer uso de la aplicación.
-
-- Médicos oncólogos
-
-    Características demográficas:
-
-    Nos dirigimos a médicos especializados en oncología que ejercen en Perú y otros profesionales de la salud involucrados en el tratamiento del cáncer en el país. En este caso, de todos los niveles económicos.
+- Pacientes Oncológicos y Sus Familiares:
+  Este grupo abarca a personas de todas las edades que han sido diagnosticadas con cáncer, así como a sus familiares y cuidadores que están involucrados en su proceso de tratamiento y recuperación. Todos comparten la necesidad de acceder a recursos y herramientas que faciliten la gestión de su enfermedad y mejoren su calidad de vida durante el tratamiento.
 </ul>
