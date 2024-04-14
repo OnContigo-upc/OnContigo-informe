@@ -103,6 +103,71 @@ de aumentar su visibilidad en los motores de búsqueda
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.1. Web Applications Wireframes</a></h3></il>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
+      
+**User Goal: Acceder al chat con el médico**
+   
+   User Persona: Paciente con tratamientos oncológicos.
+
+   Explicación: Cuando el usuario haga click a "Mi Doctor", le aparecerá la interfaz con sus datos y un botón que dice "Chat". Cuando haga click en ese botón, ingresará al apartado de chat para que puedan comunicarse.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Acceder-Chat-Paciente.png"/><br>
+
+
+**User Goal: Acceder al Calendario**
+
+   User Persona: Paciente con tratamientos oncológicos.
+
+   Explicación: Cuando el usuario se encuentre en la menú de inicio. Va aparecer en la izquierda una opción llamada "Calendario". Cuando haga click en ese botón lo redirigirá a la una interfaz con el calendario y las próximas citas o tratamientos a lo largo de la semana.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/User Goal Calendario Paciente.png"/><br> 
+
+**User Goal: Poder agregar y/o eliminar a pacientes en la lista** 
+
+   User Persona: Médico oncólogo
+
+   Explicación: Cuando el usuario haga click en "Lista de pacientes", lo llevará a una tabla con sus pacientes y una lista de botones en la parte derecha. Si quiere agregar un paciente, tendrá que hacer click al botón "Agregar pacientes". Pero si quiere eliminarlo tendrá que escoger el último botón que dice "Eliminar paciente".
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Añadir o eliminar paciente Medico.png"/><br> 
+
+**User Goal: Poder usar un chat privado con mi paciente**
+
+   User Persona: Médico oncólogo
+
+   Explicación: Cuando el usuario haga click en "Lista de pacientes", lo llevará a una tabla con sus pacientes y una lista de botones en la parte derecha. Tendrá que seleccionar un paciente y darle al botón "Ver detalles". Le aparecerá el perfil del paciente y un botón que dice "Chat". El usuario tendrá que pulsarlo para iniciar un chat con el paciente.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Acceder-Chat-Medico.png"/><br> 
+
+**User Goal: Registrar medicamentos de un paciente**
+
+   User Persona: Médico oncólogo
+
+   Explicación: El usuario deberá hacer click en "Lista de pacientes", lo dirigirá a una tabla con sus pacientes y una lista de botones en la parte derecha. Tendrá que seleccionar un paciente y darle al botón "Recetar medicamento". Después le aparecerá una ventana emergente donde colocará toda la información acerca del medicamento.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar Medicamento a paciente Medico.png"/><br> 
+
+**User Goal: Registrar tratamiento y procedimiento de un pacientes**
+
+   User Persona: Médico oncólogo
+
+   Explicación: El usuario deberá hacer click en "Lista de pacientes", lo dirigirá a una tabla con sus pacientes y una lista de botones en la parte derecha. Tendrá que seleccionar un paciente y darle al botón "Tratamientos y Procedimientos". Después le aparecerá una ventana emergente donde habrá dos tablas para describir los procedimientos y tratamientos respectivamente.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar procedimiento y tratamiento Medico.png"/><br> 
+
+**User Goal Enviar alarma como notificacion a mis pacientes:**
+
+   User Persona: Médico oncólogo
+
+   Explicación: El usuario deberá hacer click en "Lista de pacientes", lo dirigirá a una tabla con sus pacientes.Cada paciente tiene un botón de alarma en la última columna. Cuando hace click a la alarma de un paciente, aparecerá una ventana donde el usuario tendrá que indicar la hora y el mensaje correspondiente que normalmente es un recordatorio.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Alarma para pacientes Medico.png"/><br> 
+
+**User goal: Registrar una nueva cita**
+   
+   User Persona: Médico oncólogo
+
+   Explicación: Cuando el usuario se encuentre en la menú de inicio. Va a hacer click en una opción llamada "Calendario". Después va a poder visualizar el calendario de las citas programadas. Finalmente tendrá que escoger un espacio libre en el calendario. Esto le dará acceso a una interfaz para elegir al paciente y escoger la modalidad de cita.
+
+   <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar una nueva cita Medico.png"/><br>   
       <il><h3><a href="./content/chapter-4//chapter-4.md">4.4.3. Web Applications Mock-ups</a></h3></il>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
    </ul>
