@@ -339,8 +339,22 @@ Gracias a las entrevistas realizadas, se pueden identificar los siguientes punto
    </ul>
 <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3. Needfinding</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
-      <il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
+      En esta sección, se presentan personajes ficticios, uno para cada segmento objetivo. La información empleada en la elaboración de los User personas proviene de entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue comprender mejor a las personas a las que está dirigida la aplicación. Entre la información extraída de las entrevistas se incluyen datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/tViVP
+<img src="../images/chapter-2/user-persona/User-persona-paciente.png" >
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
+
+<img src="../images/chapter-2/user-persona/User-persona-doctor.png" >
+
+</ul>
+<il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
       <table>
   <tr>
     <th>Tareas</th>
