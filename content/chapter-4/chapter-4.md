@@ -37,6 +37,15 @@ organización visual para los dos segmentos de OnContigo: pacientes y doctores o
 - **Seguimiento de Tratamiento**: Pasos para el seguimiento regular del progreso del tratamiento, con recordatorios y alertas programadas.
 - **Educación Continua**: Cursos y materiales de formación presentados en un formato secuencial para el desarrollo profesional continuo.
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2. Labeling Systems</a></h3></il>
+      A continuación, se mostrará el sistema de etiquetado que permitirá a nuestros visitantes recibir la información que nuestra Landing page ofrece a través de una sola palabra. Contamos con cuatro “headings” con fuente sans-serif ubicadas en la parte superior del Landing page:
+<br>
+    <ul>
+    <li>Members: Sección donde el cliente podra ver los integrantes de nuestro equipo de desarrollo.
+        <li>About us: Sección dónde el cliente podrá ver nuestra misión, visión, quienes somos y qué hacemos.
+        <li>Services: Sección enfocada en listar y detallar los servicios que ofrecemos.
+         <li>Plans: Sección dónde se detalla cuales son los planes de OnContigo
+          <li>Testimonials: Seccion donde se muestra los testimonios de clientes satisfechos
+    </ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3. SEO Tags and Meta Tags</a></h3></il>
       A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito
 de aumentar su visibilidad en los motores de búsqueda
