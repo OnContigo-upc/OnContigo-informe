@@ -301,7 +301,20 @@ Para tener una primera impresion de la aplicacion</td>
   <!-- Repite las filas similares para cada historia de usuario restante -->
 </table>
 
-<il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
+<ul style="list-style-type: none;"><il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
+En esta sección, se ha llevado a cabo la creación del impact mapping, partiendo de las metas comerciales establecidas para cada user persona. Se han identificado los impactos deseados, los entregables necesarios y se han relacionado con las historias de usuario correspondientes.
+
+Segmento objetivo: Pacientes y familiares
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/i/qzusH
+<img src="../images/chapter-3/impact-mapping/impact-map-paciente.png" >
+
+Segmento objetivo: Oncólogos
+
+Link de UXPressia: https://uxpressia.com/w/mDdvz/i/f0s3H
+<img src="../images/chapter-3/impact-mapping/impact-map-doctor.png" >
+
+</ul>
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
 Link del trello:  https://trello.com/invite/b/gx5i8rKM/ATTI09d174300e2bf371f3e5625280ecdb95A762E269/product-backlog-oncontigo 
 
