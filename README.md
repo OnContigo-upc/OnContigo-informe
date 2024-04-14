@@ -87,6 +87,18 @@
                <td>Acuña, Diego </td>
                <td>To-be-scenario mapping</td>
             </tr>
+             <tr>
+               <td>1.5</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>SEO y Meta Tags</td>
+            </tr>
+            <tr>
+               <td>1.5</td>
+               <td>14/04/2024</td>
+               <td>Acuña, Diego </td>
+               <td>Organization Systems</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -145,48 +157,48 @@
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
 
-<il><h1><a href="./content/chapter-4/1-style-guidelines.md">Capítulo IV: Product Design</a></h1></il>
-<il><h3><a href="./content/chapter-4/1-style-guidelines.md">4.1. Style Guidelines</a></h3></il>
+<il><h1><a href="./content/chapter-4/chapter-4.md">Capítulo IV: Product Design</a></h1></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.1. Style Guidelines</a></h3></il>
 
    <ul>
-      <il><h3><a href="./content/chapter-4/1-style-guidelines.md">4.1.1. General Style Guidelines</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.1.1. General Style Guidelines</a></h3></il>
       <il><h3><a href="">4.1.2. Web Style Guidelines</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2. Information Architecture</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.2. Information Architecture</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.1. Organization Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.2. Labeling Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.3. SEO Tags and Meta Tags</a></h3></il>
-      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.4. Searching Systems</a></h3></il>
-      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.5. Navigation Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.1. Organization Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.2. Labeling Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.3. SEO Tags and Meta Tags</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.4. Searching Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.2.5. Navigation Systems</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3. Landing Page UI Design</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.3. Landing Page UI Design</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3.1. Landing Page Wireframe</a></h3></il>
-      <il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3.2. Landing Page Mock-up</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.1. Landing Page Wireframe</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.2. Landing Page Mock-up</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4. Web Applications UX/UI Design</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.4. Web Applications UX/UI Design</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.1. Web Applications Wireframes</a></h3></il>
-      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.3. Web Applications Mock-ups</a></h3></il>
-      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.1. Web Applications Wireframes</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4//chapter-4.md">4.4.3. Web Applications Mock-ups</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/5-web-app-prototyping.md">4.5. Web Applications Prototyping</a></h3></il>
-<il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6. Domain-Driven Software Architecture</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.6. Domain-Driven Software Architecture</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.1. Software Architecture Context Diagram</a></h3></il>
-      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.2. Software Architecture Container Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.3. Software Architecture Components Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.1. Software Architecture Context Diagram</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.2. Software Architecture Container Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.6.3. Software Architecture Components Diagrams</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7. Software Object-Oriented Design</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.7. Software Object-Oriented Design</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7.1. Class Diagrams</a></h3></il>
-      <il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7.2. Class Dictionary</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.1. Class Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.2. Class Dictionary</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-4/8-database-design.md">4.8. Database Design</a></h3></il>
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.8. Database Design</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-4/8-database-design.md">4.8.1. Database Diagram</a></h3></il>
+      <il><h3><a href="./content/chapter-4/chapter-4.md">4.8.1. Database Diagram</a></h3></il>
    </ul>
 
 <il><h1><a href="./content/chapter-5/1-software-configuration-managment.md">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
