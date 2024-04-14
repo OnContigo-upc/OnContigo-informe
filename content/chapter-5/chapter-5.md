@@ -405,11 +405,79 @@ services, goals, hero and footer. Con ello completamos el primer sprint de imple
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
+Acceptance Tests automatizados, para Web Services
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         Vistas implementadas:
+         
+#### Desktop Web Browser
+ <img src="../images/chapter-5/execution-evidence/desktop.png"/>
+
+ #### About us
+ <img src="../images/chapter-5/execution-evidence/about-us.png"/>
+
+ #### Members
+ <img src="../images/chapter-5/execution-evidence/members.png"/>
+
+ #### Services
+ <img src="../images/chapter-5/execution-evidence/services.png"/>
+
+ #### Plans
+ <img src="../images/chapter-5/execution-evidence/plans.png "/>
+
+  #### Footer
+ <img src="../images/chapter-5/execution-evidence/footer.png"/>
+
+ Link Figma: https://www.figma.com/file/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=0-1&mode=design&t=HkEWLTZnf3N6FtXp-0
+<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints
+documentados con OpenAPI, relacionados con el alcance del Sprint y con web services.
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+        Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:
+https://oncontigo-upc.github.io/Landing-Page/
+<br>
+- Para el desarrollo del Landing Page de OnContigo se han utilizado las siguientes herramientas:
+    - Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+        Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido
+        realizado en su rama individual.
+     - Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale
+        Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
+    - JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page.
+        Evidencia: Se muestra el documento main.js.
+<br>
+- El despliegue del Landing Page de OnContigo no pudo ser posible sin utilizar las siguientes tecnologías:
+    - Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones.
+El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page
+    - Github: Plataforma de desarrollo colaborativo
+    - Git Flow:Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al
+desarrollo del Landing Page
+    -  Git Hub PagesServicio de Github que nos permitió alojar nuestra Landing page.
+- Asimismo, se han realizado los siguientes pasos:
+    - Dirigirse al repositorio de la página: Dado que se ha empleado Github, debemos ir al repositorio creado en este sitio web para publicar el Landing Page que ha desarrollado el equipo. Desde aquí, se podrá iniciar la configuración del vínculo de la página dirigiéndonos al apartado de Settings.
+    - Ir a la opción de páginas: Una vez presentes la configuración del repositorio, debemos dirigirnos a la sección de Pages. Esto se debe a que ahí se encuentran todas las opciones de configuración de publicación de la página en un link o vínculo
+
+    -   Elección de rama y carpeta de guardado: Dentro de pages, se debe seleccionar la rama o branch que se va a publicar en el vínculo. De la misma manera, se tiene que elegir la carpeta donde se localizará esta publicación a realizar. Finalmente podremos acceder a nuestra página con el link que aparece en la parte superior de este apartado de configuración
+
+-   Siguiendo los pasos, obtenemos el siguiente enlace:
+https://oncontigo-upc.github.io/Landing-Page/
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
+      Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.
+
+    Repositorio Principal: LandingPage:https://github.com/OnContigo-upc/Landing-Page
+    Landing Page: https://oncontigo-upc.github.io/Landing-Page/
+    
+    Integrantes:
+<br>
+ <img src="../images/chapter-5/team-collaboration/overview.png"/>
+ <img src="../images/chapter-5/team-collaboration/members.png"/>
+<br><br>
+ Insights Github
+ <br>
+  <img src="../images/chapter-5/team-collaboration/commits.png"/>
+  <img src="../images/chapter-5/team-collaboration/branches.png"/>
+  <img src="../images/chapter-5/team-collaboration/network.png "/>
+
    </ul>
        <il><h3><a href="./content/chapter-5/chapter-5.md">5.3 Validation Interviews</a></h3></il>
       <ul>
