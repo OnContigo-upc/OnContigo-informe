@@ -113,7 +113,38 @@ comunicarse con nosotros.
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.3. Landing Page UI Design</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.1. Landing Page Wireframe</a></h3></il>
+
+ **Landing Page desktop**<br>
+ Se presenta la landing page vista desde el desktop browser. Donde se muestran la mision,vision,integrantes,caracteristicas,planes, testimonios y por ultimo el footer.<br>
+      <img src="../images/chapter-4/Landingpage-Desktop-mobile/LandinpageDesktop.png"/><br>
+**Landing pages Mobile**<br>
+Se presenta la landing page vista desde el mobile web browser.Incluye el diseño desktop browser, pero adaptados a las dimensiones del dispositivo mobil.
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP1.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP2.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP3.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP4.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP5.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP6.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP7.png"/><br>
+<img src="../images/chapter-4/Landingpage-Desktop-mobile/LP8.png"/><br>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.3.2. Landing Page Mock-up</a></h3></il>
+
+**Landing Page para desktop Web browser**<br>
+El wireframe de la vista desktop web browser de la landing page tuvo su utilidad para partir de un esquema definido y al elaborar la landing page mock up, la cual cuenta con los mismo contenidos previos mostrados.<br>
+<img src="../images/chapter-4/LandingpageMc/LPmockup.png"/><br>
+
+**Landing Page para Mobile Web browser**<br>
+Desde la vista de un user mobile web browser codse logra ver el contenido de la landing page. Se evidencia la tipografia,colores e imagenes añadidas y adaptadas al margen de los dispositivos mobiles.
+<img src="../images/chapter-4/LandingpageMc/LP1mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP2mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP3mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP4mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP5mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP6mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP7mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LP8mc.png"/><br>
+<img src="../images/chapter-4/LandingpageMc/LPfooter.png"/><br>
+      
    </ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.4. Web Applications UX/UI Design</a></h3></il>
    <ul>
