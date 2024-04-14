@@ -179,6 +179,86 @@
    <ul>
       <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
       <il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <table>
+  <tr>
+    <th>Tareas</th>
+    <th>Paciente: Frecuencia</th>
+    <th>Paciente: Importancia</th>
+    <th>Doctor: Frecuencia</th>
+    <th>Doctor: Importancia</th>
+  </tr>
+  <tr>
+    <td>Buscar información sobre el cáncer</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar citas médicas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicarse con especialistas</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registrar y monitorear medicamentos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Seguimiento del progreso del paciente	</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Coordinar con otros especialistas	</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Gestionar pagos y citas especiales</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+   <tr>
+    <td>Buscar apoyo psicológico	</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Revisar tratamientos anteriores	</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+   <tr>
+    <td>Acceder a recordatorios de tratamientos	</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <!-- Agrega más filas según sea necesario -->
+</table>
       <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
       <il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
       <il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
@@ -189,3 +269,5 @@
  **Segmento:Doctor Oncologo**
   <img src="../images/chapter-2/asisscenario/doctor.png"/> 
    </ul>
+
+   
