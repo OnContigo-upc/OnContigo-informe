@@ -270,4 +270,22 @@
   <img src="../images/chapter-2/asisscenario/doctor.png"/> 
    </ul>
 
-   
+<il><h3><a href="./content/chapter-2/3-user-persona.md">2.4. Ubiquitous Language</a></h3></il>
+
+Esta es la parte donde se explicará el Ubiquitous Language. Este término hace referencia a un lenguaje común entre los desarrolladores y el dominio. En esta ocasión se va presentar un glosario con conceptos y términos comunes que se emplean en el ámbito de la oncología.
+
+1. **Tumor:** Una masa anormal de tejido que puede ser benigna o maligna.
+
+2. **Cáncer:** Un término general para enfermedades caracterizadas por el crecimiento descontrolado de células anormales que pueden invadir tejidos y propagarse a otras partes del cuerpo.
+
+3. **Metástasis:** La propagación del cáncer desde su sitio original a otro órgano del cuerpo.
+
+4. **Quimioterapia:** un tratamiento que utiliza medicamentos para destruir células cancerosas mediante el uso de fármacos.
+
+5. **Radioterapia:** Tratamiento que usa altas dosis de radiación para destruir células cancerosas. 
+
+6. **Oncólogo:** Médico especializado en el diagnóstico y tratamiento del cáncer.
+
+7. **Biopsia:** Extracción de tejido para realizar exámenes bajo un microscopio con el fin de diagnósticar el cáncer.
+
+8. **Cuidados paliativos:** Atención médica que se centra en proporcionar alivio del dolor y otros síntomas de una enfermedad grave, como el cáncer.
