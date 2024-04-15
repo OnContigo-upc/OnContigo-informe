@@ -15,6 +15,38 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
 </ul>
 <ul style="list-style-type: none;">
       <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h3></li>
+      <table>
+  <tr>
+    <th>Miembro del equipo</th>
+    <th>Descripción</th>
+    <th>Codigo de usuario</th>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_3.jpg"></td>
+    <td>Me llamo Alexandra Belen Ramos Argüelles. Actualmente, estoy cursando la carrera de Ingeniería de Software y me encuentro en el quinto ciclo de la misma. Me considero una persona responsable, creativa y perseverante, con una fuerte capacidad para adaptarme a trabajos en equipo. En cuanto a mis habilidades en programación, tengo experiencia con lenguajes como C++ y C#. Siempre doy lo mejor de mí y me gusta aprender constantemente. Estoy emocionada por tener la oportunidad de demostrar estas habilidades en este trabajo grupal.</td>
+    <td>U202215164</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_2.png"></td>
+    <td>Me llamo Diego Jose Acuña Gomez, soy estudiante de Ingenieria de Software en la UPC. Me gusta trabajar en equipo y hacer que mis compañeros llegen a dar su máxima capacidad en la resolucion de problemas.  Tengo habilidades en la programación como puede ser C++, C#, Java y Javascript. Finalmente, me considero una persona con muy rápido aprendizaje</td>
+    <td>U20201C794</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_6.jpg"></td>
+    <td>Mi nombre es Gustavo Adolfo Pardo Zapata, soy estudiante de la carrera de ingeniería de software de la UPC. Soy proactivo, colaborativo,responsable y con habilidades de resolución de problemas.Tengo una excelente capacidad para comunicarme de manera efectiva y clara con los demás miembros de mi equipo y deseo colaborar en todo lo posible con mis demás compañeros en este trabajo.</td>
+    <td>U202120347</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_1.jpg"></td>
+    <td>Soy Juan Pablo Ramos, me encuentro en el quinto ciclo de Ingeniería de Software. En términos de programación tengo precedente en C++. Al momento de trabajar en grupos siempre trato de mantener el orden entre las partes de los miembros y apoyar en el desarrollo de las presentaciones.</td>
+    <td>U202019545</td>
+  </tr>
+  <tr>
+    <td><img src="../images/chapter-1/perfil_5.png"></td>
+    <td>Mi nombre es Renzo Manuel Ramos Ramirez. Actualmente estoy estudiando la carrera de Ingeniería de Software. Me gusta aportar ideas al equipo y ser de ayuda a mis compañeros. En cuanto a mis experiencias, he aprendido a desarrollar aplicaciones de escritorio y de web empleando tecnologías conocidas (C#, .NET framework, ASP.NET, javascript y python).</td>
+    <td>U202113745</td>
+  </tr>
+</table>
    </ul>
    <h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3>
    <ul>
