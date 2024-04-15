@@ -265,15 +265,6 @@
    <li><h3><a href="./content/chapter-1/chapter-1.md">1.1. Startup Profile</a></h3></li>
    <ul style="list-style-type: none;">
       <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.1.  Descripción de la Startup</a></h3></li>
-        OnContigo es una aplicación creada por alumnos de ingeniería de software de la Universidad Peruana de Ciencias Aplicadas (UPC), con el objetivo de ofrecer apoyo y organización tanto a pacientes oncológicos como a médicos oncólogos en el sector de la salud peruano. Reconocemos las complejidades y desafíos que enfrentan estos dos grupos en el proceso de tratamiento del cáncer, por lo que consideramos darle la importancia debida
-
-OnContigo ofrece una plataforma integral que facilita la gestión de pacientes y la organización de su información. Los médicos pueden administrar eficientemente la información y los horarios de una gran cantidad de pacientes, así como asignar medicamentos y procedimientos de manera efectiva. Además, nuestro calendario integrado proporciona recordatorios específicos para cada paciente, incluyendo citas médicas y procedimientos importantes, y facilita la comunicación directa entre médicos y pacientes.
-
-Otro punto relevante de OnContigo es que proporciona un espacio seguro y comprensivo para que los pacientes oncológicos y sus familias gestionen su tratamiento y bienestar. Los pacientes pueden registrar los medicamentos que toman y acceder a información detallada sobre ellos, incluyendo los efectos secundarios. Además, nuestro calendario ofrece recordatorios de citas médicas, procedimientos y la duración de los medicamentos. También facilitamos la búsqueda y el contacto con médicos oncólogos y otros recursos importantes.
-
-- Misión: Nuestra misión es mejorar la calidad de vida y el proceso de tratamiento para pacientes oncológicos y médicos oncólogos en el Perú. Nos esforzamos por ser un aliado confiable en su viaje, proporcionando herramientas tecnológicas innovadoras que simplifiquen la gestión de la atención médica y promuevan una mayor conexión entre pacientes y profesionales de la salud.
-
-- Visión: Nuestra visión es convertirnos en la plataforma líder en el sector peruano de la salud, reconocida por nuestro compromiso con la excelencia en el apoyo a pacientes oncológicos y médicos oncólogos. Buscamos transformar positivamente la experiencia de tratamiento del cáncer al proporcionar soluciones integrales, accesibles y centradas en las necesidades de nuestros usuarios.
 </ul>
 <ul style="list-style-type: none;">
       <li><h3><a href="./content/chapter-1/chapter-1.md">1.1.2. Perfiles de integrantes del equipo</a></h3></li>
@@ -291,14 +282,6 @@ Otro punto relevante de OnContigo es que proporciona un espacio seguro y compren
    </ul>
 <ul style="list-style-type: none;">
    <li><h3><a href="./content/chapter-1/chapter-1.md">1.3. Segmentos objetivo</a></h3></li>
-Dentro del marco de nuestra propuesta innovadora, hemos detectado segmentos fundamentales que están vinculados al ámbito problemático que abordamos.
-
-- Médicos Oncólogos:
-Este grupo incluye a profesionales médicos especializados en el tratamiento del cáncer, que trabajan en hospitales, clínicas oncológicas y consultorios privados en el Perú. Además, es importante destacar que estos médicos se enfrentan a una carga de trabajo intensa, con la necesidad de gestionar la información y los horarios de numerosos pacientes en un entorno altamente exigente.
-
-- Pacientes Oncológicos y Sus Familiares:
-Este grupo abarca a personas de todas las edades que han sido diagnosticadas con cáncer, así como a sus familiares y cuidadores que están involucrados en su proceso de tratamiento y recuperación. Todos comparten la necesidad de acceder a recursos y herramientas que faciliten la gestión de su enfermedad y mejoren su calidad de vida durante el tratamiento.
-
 </ul>
 <il><h1><a href="./content/chapter-2/chapter-2.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
 <li><h3><a href="./content/chapter-2/chapter-2.md">2.1. Competidores</a></h3></li>
@@ -317,49 +300,13 @@ Este grupo abarca a personas de todas las edades que han sido diagnosticadas con
    <ul>
 <ul style="list-style-type: none;">
       <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.1. User Personas</a></h3></il>
-      En esta sección, se presentan personajes ficticios, uno para cada segmento objetivo. La información empleada en la elaboración de los User personas proviene de entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue comprender mejor a las personas a las que está dirigida la aplicación. Entre la información extraída de las entrevistas se incluyen datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
-
-Segmento objetivo: Pacientes y familiares
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/p/tViVP
-<img src="content/images/chapter-2/user-persona/User-persona-paciente.png" >
-
-Segmento objetivo: Oncólogos
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/p/mxqb4
-
-<img src="content/images/chapter-2/user-persona/User-persona-doctor.png" >
+      
 
 </ul>
 <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.2. User Task Matrix</a></h3></il>
       <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.3. User Journey Mapping</a></h3></il>
-En el proceso de desarrollo de OnContigo, realizamos un detallado user journey mapping para comprender las experiencias y necesidades tanto de pacientes oncológicos como de médicos oncólogos. Exploramos cada etapa, desde el diagnóstico hasta el tratamiento continuo, identificando obstáculos y oportunidades de mejora. Este enfoque nos permitió diseñar una aplicación que se integra de manera efectiva en la vida diaria de los usuarios, mejorando la calidad de la atención médica en el sector de la salud peruano.
-Segmento objetivo: Pacientes y familiares
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/m/FDtCu
-
-<img src="content/images/chapter-2/user-journeymap/user-journey-map-paciente.png" >
-
-Segmento objetivo: Oncólogos 
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/m/196Tw
-
-<img src="content/images/chapter-2/user-journeymap/user-journey-map-doctor.png" >
-
-
 </ul>      
 <ul style="list-style-type: none;"><il><h3><a href="./content/chapter-2/chapter-2.md">2.3.4. Empathy Mapping</a></h3></il>
-En esta parte, se exhibirán los Empathy maps basados en los user personas creados, considerando los dos segmentos objetivos. La utilización de estos mapas de empatía será beneficiosa, ya que nos permitirá comprender con mayor profundidad a nuestros clientes, lo que a su vez nos posibilitará mejorar diversos aspectos de la aplicación.
-
-Segmento objetivo: Pacientes y familiares
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/p/JzlFH
- <img src="content/images/chapter-2/empathymap/Empathy-map-paciente.png" > 
-           Segmento objetivo: Oncólogos 
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v 
-<img src="content/images/chapter-2/empathymap/Empathy-map-doctor.png" >   
-            
 </ul>      
 <il><h3><a href="./content/chapter-2/chapter-2.md">2.3.5. As-is Scenario Mapping</a></h3></il>
    </ul>
@@ -370,17 +317,7 @@ Link de UXPressia: https://uxpressia.com/w/mDdvz/p/lg65v
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.2. User Stories</a></h3></il>
 <ul style="list-style-type: none;">
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.3. Impact Mapping</a></h3></il>
-En esta sección, se ha llevado a cabo la creación del impact mapping, partiendo de las metas comerciales establecidas para cada user persona. Se han identificado los impactos deseados, los entregables necesarios y se han relacionado con las historias de usuario correspondientes.
 
-Segmento objetivo: Pacientes y familiares
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/i/qzusH
-<img src="content/images/chapter-3/impact-mapping/impact-map-paciente.png" >
-
-Segmento objetivo: Oncólogos 
-
-Link de UXPressia: https://uxpressia.com/w/mDdvz/i/f0s3H
-<img src="content/images/chapter-3/impact-mapping/impact-map-doctor.png" >
 
 </ul>
 <il><h3><a href="./content/chapter-3/chapter-3.md">3.4. Product Backlog</a></h3></il>
