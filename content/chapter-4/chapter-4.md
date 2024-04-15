@@ -229,7 +229,7 @@ https://www.figma.com/proto/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
 
 Enlace del [Figma](https://www.figma.com/file/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=23%3A12&mode=design&t=YK7yfbwo7EOjQ6o1-1)
-  
+
 **User Goal: Acceder al chat con el médico**
    
    User Persona: Paciente con tratamientos oncológicos.
@@ -376,7 +376,14 @@ La imagen evidencia la sección "Medico Alarma" ya aplicada. En ella el usuario 
 
 
    </ul>
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
+Enlace para acceder al video de explicacion:
+[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EQbyuVldqilJrsYvdGMFkrwBnm6GQCOehsQTPciRXU3T2g?e=wEWozO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Enlace para acceder al flujo: [Flujo Figma](https://www.figma.com/proto/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=251-349&t=FELZPD3VtO3u2UJV-0&scaling=min-zoom&page-id=23%3A12&starting-point-node-id=251%3A349&show-proto-sidebar=1)
+
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.6. Domain-Driven Software Architecture</a></h3></il>
 En esta sección, se presentarán los respectivos diagramas correspondientes al diseño de software
 basados en lo que utilizará nuestra aplicación web. Para dichos diseños, hemos aplicado patrones tanto
