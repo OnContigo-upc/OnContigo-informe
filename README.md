@@ -139,7 +139,7 @@
                <td>1.13</td>
                <td>14/04/2024</td>
                <td>Ramos, Juan Pablo </td>
-               <td>Guidelines, Class Diagram y Database Diagram </td>
+               <td>Web Style Guidelines</td>
             </tr>
             <tr>
                <td>1.14</td>
@@ -164,6 +164,84 @@
                <td>14/04/2024</td>
                <td>Pardo, Gustavo </td>
                <td>Mock ups</td>
+            </tr>
+             <tr>
+               <td>1.18</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>Descripción de la Startup</td>
+            </tr>
+            <tr>
+               <td>1.19</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>Segmentos objetivo</td>
+            </tr>
+            <tr>
+               <td>1.20</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>User Personas</td>
+            </tr>
+            <tr>
+               <td>1.21</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>User Personas</td>
+            </tr>
+            <tr>
+               <td>1.22</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>User Journey Mapping</td>
+            </tr>
+              <tr>
+               <td>1.23</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>Empathy Mapping</td>
+            </tr>
+              <tr>
+               <td>1.24</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>User Stories</td>
+            </tr>
+              <tr>
+               <td>1.25</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>Product Backlog</td>
+            </tr>
+             <tr>
+               <td>1.26</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra  </td>
+               <td>Impact Mapping</td>
+            </tr>
+            <tr>
+               <td>1.27</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Juan Pablo </td>
+               <td>Class Diagram</td>
+            </tr>
+            <tr>
+               <td>1.28</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Juan Pablo </td>
+               <td>Database Diagram</td>
+            </tr>
+             <tr>
+               <td>1.29</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra </td>
+               <td>Database Diagram</td>
+            </tr>
+             <tr>
+               <td>1.30</td>
+               <td>14/04/2024</td>
+               <td>Ramos, Alexandra </td>
+               <td>Class Diagram</td>
             </tr>
     </table>
 </span>
