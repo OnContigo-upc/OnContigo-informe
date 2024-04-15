@@ -302,7 +302,81 @@ implementación
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.1. Class Diagrams</a></h3></il> <br>
          <image src="../images/chapter-4/Class Diagram.png"> <br>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.7.2. Class Dictionary</a></h3></il>
-   </ul>
+  A continuación, se detallan exhaustivamente las clases más relevantes junto con sus atributos y métodos correspondientes en el contexto del sistema de gestión agrícola. Estas clases forman la estructura fundamental del sistema, permitiendo un seguimiento integral de los procesos agrícolas y la gestión de los recursos agrícolas.
+
+|Usuario| |
+|:----|:----|
+|La clase Usuario es la clase significativa, ya que representa a los usuarios de nuestra plataforma (pacientes y doctores oncólogos).| |
+|Atributo|Descripción|
+|string nombre|Almacena el nombre del usuario|
+|string apellido |Almacena el apellido del usuario|
+|string contrasenha|Almacena las contraseñas|
+|Paciente| |
+|La clase Paciente, que hereda de la clase Usuario. Representa a uno de los tipos de usuario.| |
+|Método|Descripción|
+|revisarHistorial(historialMedico)|Método para revisar el historial médico.|
+|agregarMedicament(nombreMedicamento)|Método para agregar medicamento.|
+| | |
+|Medico| |
+|La clase Medico, que hereda de la clase Usuario. Representa a uno de los tipos de usuario.| |
+|Atributo|Descripción|
+|string especializacion|Almacena las especializaciones de los médicos.|
+|Método|Descripción|
+|revisarHistorialPaciente(nombre,apellido)|Método para revisar el historial de un paciente.|
+|registarPaciente(nombre, apellido)|Método para registrar un paciente.|
+|asignarMedicamento(nombreMedicamento, nombre, apellido)|Método para asignar medicamentos al paciente.|
+|asignarTratamiento| |
+|asignarTratamientoPaciente(nombreTratamiento, nombre, apellido)|Método para asignar un tratamiento al paciente.|
+| | |
+|Tratamiento| |
+|En esta clase se podrá ampliar la información relacionada a los tratamientos.| |
+|Atributo|Descripción|
+|string nombreTratamiento|Almacena el nombre del tratamiento.|
+|string descripcionTratamiento|Almacena la descripción del tratamiento.|
+|string fechaInicio|Representa la fecha y hora de inicio del tratamiento.|
+|string fechaCierre|Representa la fecha y hora de cierre del tratamiento.|
+| | |
+|Procedimiento| |
+|En esta clase se podrá ampliar la información relacionada a los procedimientos.| |
+|Atributo|Descripción|
+|string nombreProcedimiento|Almacena el nombre del procedimiento.|
+|string descripcionProcedimiento|Almacena la descripción del procedimiento.|
+|string fecha|Almacena la fecha en la que se realizó o se realizará el procedimiento.|
+| | |
+|Aplicacion| |
+|En la clase Aplicacion se encuentran las acciones generales en la aplicación.| |
+|Métodos|Descripción|
+|iniciarSesion(nombre, apellido, contrasenha)|Método que permite iniciar sesión.|
+|comunicacionUsuarios(nombre, apellido, numeroTelefono)|Método que permite la comunicación entre los usuarios.|
+| | |
+|Medicamento| |
+|En la clase Medicamentos se encuentra toda la información de los medicamentos, incluyendo nombre, descripción, etc.| |
+|Atributo|Descripción|
+|string nombreMedicamento|Almacena el nombre del medicamento.|
+|string descripcion|Almacena la descripción acerca del medicamento.|
+|string fuentes|Almacena las fuentes de información del medicamento.|
+|float cantDosis |Almacena la dosis del medicamento.|
+| | |
+|Cita| |
+|La clase Cita se encuentra toda la información de las citas del paciente con el doctor.| |
+|Atributo|Descripción|
+|string fecha|Almacena la fecha de la cita.|
+|string hora|Almacena la hora de la cita|
+|string salaConsultas|Almacena la sala en que se realizará la consulta médica.|
+|string direccionClinica|Almacena la dirección de la clínica en la que la cita médica se llevará a cabo.|
+| | |
+|Calendario| |
+|La clase Calendario almacena información de todas las citas, los tratamientos, procedimientos, etc. que estén relacionados al paciente.| |
+| | |
+| | |
+|ListaMedicamentos| |
+|La clase ListaMedicamentos obtendrá información de la tabla Medicamento para que el doctor pueda asignarle las medicinas al paciente.| |
+| | |
+| | |
+|HistorialMedico| |
+|La clase HistorialMedico es la clase que obtendrá la información de las clases Tratamiento y Procedimiento para mantener informado al paciente y doctor.| |
+| | |
+</ul>
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.8. Database Design</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.8.1. Database Diagram</a></h3></il>
