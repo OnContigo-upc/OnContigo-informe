@@ -167,8 +167,69 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.4. Web Applications UX/UI Design</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.1. Web Applications Wireframes</a></h3></il>
+
+**Web application para desktop Web browser**
+
+Enlace del [Figma](https://www.figma.com/file/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=23%3A12&mode=design&t=YK7yfbwo7EOjQ6o1-1)
+
+**Iniciar sesión**<br>
+La siguiente imagen evidencia el wireframe de la sección de " inicio de sesion" desde la vista de desktop web browser. En ella, los usuario podra registrarse brindando sus credenciales necesarias para acceder a la aplicación.<br>
+
+   <img src="../images/chapter-4/figma/IniciarSesion.png"><br> 
+
+**Menu Doctores**<br>
+La siguiente imagen muestra el wireframe de la seccion de "Menu de doctores" desde la vista de desktops web browser. En ella, el usuario medico podra acceder desde ahi a la lsita de pacientes y al calendario.<br>
+
+   <img src="../images/chapter-4/figma/MenuDoctores.png"><br> 
+
+**Lista de Pacientes**<br>
+La siguiente imagen muestra el wireframe de la seccion de "Medico Alarma" . En ella el medico podra establecer una nota y la hora que se le envie la notificacion a su paciente.<br>
+
+   <img src="../images/chapter-4/figma/ListaPacientes.png"><br> 
+
+**Agregar Paciente**<br>
+La imagen muestra la seccion "agregar paciente".En ella el medico puede registrar los datos de su paciente solo colocando su Dni.<br>
+
+
+   <img src="../images/chapter-4/figma/AgregarPaciente.png"><br> 
+
+**Eliminar Paciente**<br>
+La imagen se muestra la seccion " Eliminar Paciente". En ella el medico podra eliminar pacientes de su lista una ves ya seleccionado.<br>
+
+   <img src="../images/chapter-4/figma/EliminarPaciente.png"><br> 
+
+**Tratamiento/Procedimeinto**<br>
+La imagen muestra la seccion "Tratamiento/Procedimiento".En esta seccion el medico podra acceder a elejir y añadir los tratamiento y/o procedimientos que esta siguiendo su paciente.<br>
+
+   <img src="../images/chapter-4/figma/TRATAMIENTO.png"><br> 
+
+**Recetar Medicamento** <br>
+La imagen muestra la seccion "Recetar medicamento". En ella el medico una vez presionado el boton correcto le mostrara para que añada, quite o describa el medicamento que deba optar el paciente<br>
+
+   <img src="../images/chapter-4/figma/Recmedicamento.png"><br> 
+
+**Chat Medico**<br>
+La imagen muestra la seccion "Chat del medico". En ella el medico podra acceder a una comunicacion privada con su paciente.<br>
+
+   <img src="../images/chapter-4/figma/chatmedico.png"><br> 
+
+**Medico alarma**<br>
+La imagen muestra la seccion "Medico Alarma". En ella el usuario medico podra acceder a una funcion de notificacion a su paciente con los medicament,tratamiento,procedimiento y proximas citas.
+
+   <img src="../images/chapter-4/figma/Alarma.png"><br> 
+
+
+<il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
+Enlace para acceder al video de explicacion:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EQbyuVldqilJrsYvdGMFkrwBnm6GQCOehsQTPciRXU3T2g?e=wEWozO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Enlace para acceder al flujo:
+https://www.figma.com/proto/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=251-349&t=FELZPD3VtO3u2UJV-0&scaling=min-zoom&page-id=23%3A12&starting-point-node-id=251%3A349&show-proto-sidebar=1
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
-      
+
+Enlace del [Figma](https://www.figma.com/file/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=23%3A12&mode=design&t=YK7yfbwo7EOjQ6o1-1)
+
 **User Goal: Acceder al chat con el médico**
    
    User Persona: Paciente con tratamientos oncológicos.
@@ -234,6 +295,51 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
 
    <img src="../images/chapter-4/information-architecture/diagrams/wireflow/Registrar una nueva cita Medico.png"/><br>   
       <il><h3><a href="./content/chapter-4//chapter-4.md">4.4.3. Web Applications Mock-ups</a></h3></il>
+      
+**Iniciar sesión**<br>
+La siguiente imagen se logra evidenciar el wireframe de la sección de " inicio de sesion" ya aplicado. En ella, los usuario podra registrarse brindando sus credenciales necesarias para acceder a la aplicación siempre y cuando posean con una cuenta previament creada.<br>
+
+<img src="../images/chapter-4/figma/IniciarSesionmc.png"/><br>   
+
+**Menu Doctores**<br>
+La siguiente imagen muestra el wireframe de la seccion de "Menu de doctores" desde la vista de desktops web browser. En ella, el usuario medico podra acceder desde ahi a la lista de pacientes y al calendario.<br>
+
+<img src="../images/chapter-4/figma/MenuDocmc.png"/><br>   
+
+**Lista de Pacientes**<br>
+La siguiente imagen evidencia el wireframe de la seccion de "Lista de Pacientes" . En ella el medico podra observar los detalles sobre citas proximas de sus pacientes ya añadidos.<br>
+
+<img src="../images/chapter-4/figma/Listapacientesmc.png"/><br>   
+
+
+**Agregar Paciente**<br>
+La imagen evidencia la seccion "agregar paciente".En ella el medico puede registrar los datos de su paciente solo colocando su Dni.<br>
+
+<img src="../images/chapter-4/figma/AgregarPacientemc.png"/><br>   
+
+**Eliminar Paciente**<br>
+La imagen evidencia la seccion " Eliminar Paciente". En ella el medico podra eliminar pacientes de su lista una ves ya seleccionado.<br>
+
+<img src="../images/chapter-4/figma/EliminarPacientemc.png"/><br>  
+
+**Tratamiento/Procedimeinto**<br>
+La imagen evidencia la seccion "Tratamiento/Procedimiento".En esta seccion el medico podra acceder a elejir y añadir los tratamiento y/o procedimientos que esta siguiendo su paciente.<br>
+
+<img src="../images/chapter-4/figma/Tratamientomc.png"/><br>  
+
+**Recetar Medicamento** <br>
+La imagen evidencia la seccion "Recetar medicamento". En ella el medico una vez presionado el boton correcto le mostrara para que añada, quite o describa el medicamento que deba optar el paciente<br>
+
+<img src="../images/chapter-4/figma/RECmedmc.png"/><br>
+
+**Chat Medico**<br>
+La imagen evidenciala seccion "Chat del medico". En ella el medico podra acceder a una comunicacion privada con su paciente.<br>
+
+<img src="../images/chapter-4/figma/Chatmedmc.png"/><br>
+
+**Medico alarma**<br>
+La imagen evidencia la sección "Medico Alarma" ya aplicada. En ella el usuario médico podrá acceder a una función de notificación a su paciente con los medicamentos,tratamiento,procedimiento y próximas citas.
+<img src="../images/chapter-4/figma/MedAlarma.png"/><br>
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
 
 **User Goal: Registrar una nueva cita**
@@ -270,7 +376,14 @@ Desde la vista de un user mobile web browser codse logra ver el contenido de la 
 
 
    </ul>
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.5. Web Applications Prototyping</a></h3></il>
+Enlace para acceder al video de explicacion:
+[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120347_upc_edu_pe/EQbyuVldqilJrsYvdGMFkrwBnm6GQCOehsQTPciRXU3T2g?e=wEWozO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Enlace para acceder al flujo: [Flujo Figma](https://www.figma.com/proto/9fLXXyhFtxOwF2iFs8gBdM/Oncontigo-Mockups?type=design&node-id=251-349&t=FELZPD3VtO3u2UJV-0&scaling=min-zoom&page-id=23%3A12&starting-point-node-id=251%3A349&show-proto-sidebar=1)
+
+
 <il><h3><a href="./content/chapter-4/chapter-4.md">4.6. Domain-Driven Software Architecture</a></h3></il>
 En esta sección, se presentarán los respectivos diagramas correspondientes al diseño de software
 basados en lo que utilizará nuestra aplicación web. Para dichos diseños, hemos aplicado patrones tanto
