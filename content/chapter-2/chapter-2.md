@@ -269,7 +269,7 @@
 **Resumen:** <br>
 Se destaca la importancia de la certificación y confianza en los profesionales de la salud, así como la necesidad de respuestas rápidas y actualizadas. El impacto emocional del cáncer en el paciente y su familia resalta la necesidad de apoyo psicológico. Además, se demanda una mayor personalización, incluyendo recordatorios específicos y acceso a información confiable sobre restricciones alimentarias. La simplicidad y facilidad de uso son esenciales, junto con una comunicación efectiva y regular entre pacientes y profesionales de la salud, incluido el reporte de estado de paciente. También se resalta la importancia de la seguridad y confidencialidad de la información médica, garantizando que la aplicación y servicio de salud sean seguros y protejan la privacidad de los usuarios. <br> <br>
 
-**Entrevistado N°2 :** Diego Cancho Colla <br>
+**Entrevistado N°2 :** Raymundo Sernaque <br>
 **Segmento objetivo :** Médico Oncólogo <br>
 <img src="../images/chapter-2/InterviewsRegister/EntrevistaO2.png"> <br>
 **Sexo:** Masculino   
