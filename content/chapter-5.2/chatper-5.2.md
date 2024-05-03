@@ -52,6 +52,10 @@
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.2. Sprint Backlog 2</a></h3></il>
          <table border="1">
+         <br><br>
+         <img src="../images/chapter-5/sprint52-trello/trello.png"/>
+         <br><br>
+         https://trello.com/b/dO38Ex1T/sprint-backlog-2-oncontigo 
   <tr>
     <th>Sprint #</th>
     <th>User Story</th>
@@ -285,11 +289,74 @@
   </tr>
   <tr>
     <td>Diego Acuna /</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>main</td>
+    <td>386f0d0</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td>Diego Acuna /</td>
+    <td>develop</td>
+    <td>386f145</td>
+    <td>feat:instalacion de dependencias</td>
+    <td>feat:instalacion de dependencias</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td>Renzo Ramos</td>
+    <td>feature/Calendario-jsonServer </td>
+    <td>386f145</td>
+    <td>
+feat: Calendar and jsonserver added</td>
+    <td>
+feat: Calendar and jsonserver added</td>
+    <td>3/05/2024</td>
+  </tr>
+
+  <tr>
+    <td>Renzo Ramos</td>
+    <td>feature/Api-Communication</td>
+    <td>386f145</td>
+    <td>
+feat:Api files added</td>
+    <td>
+feat:Api files added</td>
+    <td>3/05/2024</td>
+  </tr>
+
+  
+  <tr>
+    <td>Renzo Ramos</td>
+    <td>feature/Api-Communication </td>
+    <td>386f145</td>
+    <td>
+feat: cards modified</td>
+    <td>
+feat: cards modified</td>
+    <td>3/05/2024</td>
+  </tr>
+
+   <tr>
+    <td>Diego Acuna</td>
+    <td>feature/datatabl </td>
+    <td>386f145</td>
+    <td>
+feat:added data table and components</td>
+    <td>
+feat:added data table and components</td>
+    <td>3/05/2024</td>
+  </tr>
+
+  <tr>
+    <td>Belen Ramos</td>
+    <td>feature/modal-component </td>
+    <td>386f145</td>
+    <td>
+feat: add modal components with data static</td>
+    <td>
+feat: add modal components with data static</td>
+    <td>3/05/2024</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
@@ -331,7 +398,15 @@ Acceptance Tests automatizados, para Web Services
 #### Nueva cita
 <img src="../images/chapter-5//sprint5_2-execution-evidence/tabla-paciente.png"/>
 
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+
+<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.2.8.Team Collaboration Insights during Sprint.</a></h3></il>
+
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/branches.png"/> <br>
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/commits.png"/> <br>
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/members.png"/> <br>
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/network.png"/> <br>
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/overview.png"/> <br>
+
 </ul>
  
