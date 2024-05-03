@@ -400,6 +400,10 @@ Acceptance Tests automatizados, para Web Services
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
 
+<img src="../images/chapter-5/sprint5.2-deployment/deployment1.png"/> <br>  <br>
+
+<img src="../images/chapter-5/sprint5.2-deployment/link.png"/>
+
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.2.8.Team Collaboration Insights during Sprint.</a></h3></il>
 
 <img src="../images/chapter-5/sprint5.2-teamcollaboration/branches.png"/> <br>
