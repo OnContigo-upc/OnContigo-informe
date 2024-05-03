@@ -290,27 +290,32 @@
       </tr>
       <tr>
          <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
-         </br>
-         <td rowspan="4">TB1: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente
+         </br><strong>TP1:</strong>Para esta entrega, he participado activamente en las reuniones grupal y la designacion de tareas. Ademas de colaborar en el desarrollo de la Web App FrontEnd
+<br><br>
+         <td rowspan="4">TB1: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente <br><br><br>TP1:
+Como grupo, colaboramos activamente en reuniones, división de tareas y comunicación efectiva para desarrollar exitosamente los componentes asignados
          </td>
       </tr>
       <tr>
          <td><strong>Gustavo Pardo</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los , analisis de entrevistas en general, empathy map y Product backlog.
-         </br>
+         </br><strong>TP1:</strong>Participe continuamente en las reuniones programadas y  en la creacion de componentes de la aplicacion. Aplicando lo aprendido en las clases.
+<br><br>
          </td>
       </tr>
       <tr>
          <td><strong>Alexandra Ramos</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.
-         </br>
+         </br><strong>TP1:</strong>Participé activamente en las reuniones del equipo, lo que nos permitió dividirnos el trabajo y comentar los avances. Asimismo, pude desarrollar los componentes correspondientes poniendo en práctica lo aprendido en clase.
+<br><br>
          </td>
       </tr>
       <tr>
          <td><strong>Juan Ramos </strong></br>
          </br><strong>TB1:</strong>
-         </br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
+         </br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page<br><strong>TP1:</strong>Durante esta entrega pudimos dividirnos el trabajo en las secciones que mejor nos enfocábamos, pero con el apoyo continuo del resto del grupo. Gracias a esto pude desarrollar los componentes login y de crear cuenta sin mucho problema.
 <br><br>
       <strong> Renzo Ramos</strong></br>TB1:</strong>
          </br>Para esta entrega me adherí al grupo hace poco tiempo y rápidamente cumplí con las tareas que se me asignaron. Participando activamente en el desarrollo de la landing page.
+<br><br><strong>TP1:</strong>Nos repartimos el trabajo mediante reuniones y nos comunicamos adecuadamente para organizar el desarrollo de los componentes de la aplicación web.
       <br>
       </td>
       </br>
@@ -322,31 +327,32 @@
          <td><strong>Diego Jose Acuña Gomez
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br>
+         </br><strong>TP1:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js. Ademas utilizar componentes de PrimeVue, como DataTable<br>
         </td>
-         <td rowspan="4">T1: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado </td>
+         <td rowspan="4">T1: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado <br><br> TP1:
+Como grupo, aplicamos conocimientos previos en Vue.js y PrimeVue para desarrollar componentes y estilos correctamente. Colaboramos en la creación de funcionalidades como la tabla editable y el calendario, priorizando la buena programación. </td>
       </tr>
       <tr>
          <td><strong>Juan Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocía la manera correcta de diseñar los style guidelines utilizando figma
-         </br></td>
+         </br><strong>TP1:</strong>En esta entrega pude aplicar la creación y desarrollo de componentes en .vue y utilizar los estilos en ellos de forma correcta, conociendo la práctica de la buena programación y el DDD para un entregable ordenado.</td>
       </tr>
       <tr>
          <td><strong>Gustavo Pardo
          </br>TB1:</strong>
          </br>Para esta entrega conocia las herramientas para la elaboracion de user task matrix user journey mapping y empathy mapping.
-         </br></td>
+         </br><strong>TP1:</strong>Tuve como funcion crear los componentes tablescrollable donde permita editar y ver datos que necesite el usuario de parte de su doctor</td>
       </tr>
       <tr>
          <td><strong>Renzo Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br>
+         </br><strong>TP1:</strong>Desarrollé la page del calendario con la ayuda de los componentes de Primvue, apliqué conocimientos como la comunicación entre componentes entre padre-hijo.<br>
          <strong> Alexandra Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br>
+         </br><strong>TP1:</strong>Para esta entrega, apliqué lo aprendido al crear y desarrollar los componentes en .vue, aplicando los estilos correspondientes y aplicando las buenas prácticas de programación.
          </br>
          </td>
       </tr>
