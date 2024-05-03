@@ -20,14 +20,20 @@
     <td>EP01</td>
     <td>Gestión de cuenta de usuarios</td>
     <td>Como usuario general Quiero acceder con mi cuenta Para ingresar a la plataforma</td>
-    <td></td>
+    <td>Acceso a la Cuenta: El usuario debe poder acceder a su cuenta utilizando sus credenciales de inicio de sesión.<br>
+Autenticación Exitosa: Tras ingresar las credenciales correctas, el sistema debe autenticar al usuario de manera exitosa y redirigirlo a la página principal o a la sección correspondiente.<br>
+Credenciales Válidas: Si el usuario ingresa credenciales inválidas, el sistema debe mostrar un mensaje de error claro indicando que las credenciales son incorrectas.<br>
+Validación de Campos: El sistema debe validar el formato correcto de la dirección de correo electrónico y verificar la existencia del usuario en la base de datos si se utiliza como método de inicio de sesión.</td>
     <td>EP01</td>
   </tr>
   <tr>
     <td>EP02</td>
     <td>Gestión de perfil</td>
     <td>Como usuario general Quiero realizar cambios en mi perfil Para actualizar mis datos personales</td>
-    <td></td>
+    <td>
+Edición de Datos: El usuario debe poder editar sus datos personales, como nombre, dirección de correo electrónico y contraseña.<br>
+Validación de Datos: El sistema debe validar los nuevos datos para asegurar que cumplen con los formatos y restricciones necesarios.<br>
+Confirmación de Cambios: El sistema debe proporcionar una confirmación visual o mensaje cuando los cambios en el perfil se hayan guardado correctamente.</td>
     <td>EP02</td>
   </tr>
    <tr>
@@ -36,7 +42,9 @@
     <td>Como usuario general
 Quiero acceder a las herramientas organizativas de OnContigo
 Para mantener un orden con los tratamientos y medicamentos.</td>
-    <td></td>
+    <td>Acceso a Herramientas: El usuario debe tener acceso a herramientas que le permitan organizar sus tratamientos y medicamentos.<br>
+Interfaz Intuitiva: Las herramientas deben ser fáciles de usar y acceder, con una interfaz clara y comprensible.<br>
+Funcionalidad Completa: Las herramientas deben permitir al usuario añadir, editar y eliminar información de tratamientos y medicamentos de manera eficiente.</td>
     <td>EP03</td>
   </tr>
    <tr>
@@ -46,9 +54,10 @@ Para mantener un orden con los tratamientos y medicamentos.</td>
     <td>Como usuario general
 Quiero que la Landing Page me muestra una forma de contacto
 Para poder contactar con OnContigo
-
 </td>
-    <td></td>
+    <td>Visibilidad del Contacto: La información de contacto debe ser claramente visible en la landing page.<br>
+Formulario de Contacto Funcional: Un formulario de contacto debe estar disponible y funcionar correctamente, enviando las consultas de los usuarios al equipo de soporte o administrativo.<br>
+Respuesta Automática: Tras enviar una consulta, el usuario debe recibir una respuesta automática confirmando la recepción de su mensaje.</td>
     <td>EP04</td>
   </tr>
    <tr>
@@ -58,7 +67,9 @@ Para poder contactar con OnContigo
     <td>Como usuario general
 Quiero formas de comunicarme con mi paciente o médico
 Para poder establecer una buena comunicación</td>
-    <td></td>
+    <td>Acceso a Comunicación: Médicos y pacientes deben poder comunicarse entre sí mediante la plataforma.<br>
+Funciones de Mensajería: Deben existir funciones de mensajería directa, preferiblemente con soporte para adjuntos y registros médicos.<br>
+Notificaciones: Ambos, médicos y pacientes, deben recibir notificaciones de nuevos mensajes o respuestas.</td>
     <td>EP05</td>
   </tr>
     <tr>
@@ -68,7 +79,9 @@ Para poder establecer una buena comunicación</td>
     <td>Como usuario general
 Quiero realizar consultas virtuales con mis pacientes
 Para poder darles esa facilidad.</td>
-    <td></td>
+    <td>Herramientas de Videoconferencia: Integración de herramientas de videoconferencia que permitan consultas virtuales en tiempo real.<br>
+Calendario de Citas: Integración con un calendario para programar y visualizar citas virtuales.<br>
+Acceso Seguro: Asegurar que las consultas virtuales sean seguras y privadas, cumpliendo con las normativas de privacidad y protección de datos.</td>
     <td>EP06</td>
   </tr>  <tr>
     <td>EP07</td>
@@ -78,7 +91,9 @@ Quiero tener acceso a con mayor detalle mi información médica
 Para estar informado
 
 </td>
-    <td></td>
+    <td>Acceso Detallado a la Información Médica: Los pacientes deben tener acceso a su información médica detallada a través de la plataforma.<br>
+Actualizaciones en Tiempo Real: La información médica debe actualizarse en tiempo real a medida que los médicos ingresan nuevos datos.<br>
+Privacidad y Seguridad: La plataforma debe asegurar la privacidad y seguridad de los datos médicos de los pacientes.</td>
     <td>EP07</td>
   </tr>
     <tr>
@@ -87,7 +102,9 @@ Para estar informado
     <td>Como paciente
 Quiero visualizar la landing page
 Para tener una primera impresion de la aplicacion</td>
-    <td></td>
+    <td>Diseño Atractivo: La landing page debe tener un diseño atractivo y profesional que ofrezca una buena primera impresión.<br>
+Información Clave Visible: La landing page debe contener información clave sobre la aplicación, incluyendo características y beneficios para los usuarios.<br>
+Facilidad de Navegación: Los usuarios deben poder navegar fácilmente por la landing page para encontrar la información que necesitan.</td>
     <td>EP08</td>
   </tr>
   <tr>
@@ -207,6 +224,24 @@ Para tener una primera impresion de la aplicacion</td>
     <td>EP03</td>
 </tr>
 <tr>
+    <td>US24</td>
+    <td>Agregar Paciente</td>
+    <td>Como usuario médico.<br>Quiero agregar pacientes en mi lista de pacientes <br>Para tener de manera mas organizada mi lista de pacientes.</td>
+    <td>
+      E01: Agregar Paciente <br>Dado que el médico se encuentra en la lista de pacientes <br>Cuando selecciona la opcion "Agregar Paciente"<br>T ingrese el DNI del paciente<br> Entonces podrá agregar paciente mediante su DNI
+    </td>
+    <td>EP03</td>
+</tr>
+<tr>
+    <td>US24</td>
+    <td>Eliminar Paciente</td>
+    <td>Como usuario médico.<br>Quiero eliminar pacientes en mi lista de pacientes <br>Para tener de manera mas organizada mi lista de pacientes.</td>
+    <td>
+      E01: Eliminar Paciente <br>Dado que el médico se encuentra en la lista de pacientes <br>Cuando selecciona a un paciente<br> Y seleccione la opcion "Eliminar  Paciente"<br> Entonces podrá eliminar paciente mediante su DNI
+    </td>
+    <td>EP03</td>
+</tr>
+<tr>
     <td>US13</td>
     <td>Contactar con OnContigo</td>
     <td>Como usuario general<br>Quiero visualizar una forma de contacto en el footer de la Landing Page.<br>Para poder comunicarme con OnContigo.</td>
@@ -249,6 +284,15 @@ Para tener una primera impresion de la aplicacion</td>
     <td>Como usuario paciente o pariente<br>Quiero establecer una comunicación con mi médico<br>Para tener una conversación en tiempo real con ellos</td>
     <td>
       E01: Abrir chat con el médico<br>Dado que el paciente se encuentra en la pestaña de “Mi doctor”<br>Cuando seleccione “Chat”<br>Entonces comenzará una conversación con su médico 
+    </td>
+    <td>EP05</td>
+</tr>
+<tr>
+    <td>US23</td>
+    <td>Lista de mis pacientes</td>
+    <td>Como medico<br>Quiero ver la lista de mis pacientes en una tabla<br>Para poder gestionar sus alarmas, ver que horarios tengo con el paciente y sus datos</td>
+    <td>
+      E01: Ver lista de pacientes<br>Dado que el medico se encuentra en la pantalla principal<br> Cuando seleccione la opcion de "Lista de Pacientes" <br>Entonces podra ver la lista de pacientes
     </td>
     <td>EP05</td>
 </tr>

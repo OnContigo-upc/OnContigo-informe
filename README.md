@@ -243,6 +243,30 @@
                <td>Ramos, Alexandra </td>
                <td>Class Diagram</td>
             </tr>
+             <tr>
+               <td>2.0</td>
+               <td>03/05/2024</td>
+               <td>Ramos, Alexandra y Juan Pardo </td>
+               <td>Mejora del ClassDiagram</td>
+            </tr>
+            <tr>
+               <td>2.1</td>
+               <td>03/05/2024</td>
+               <td>Diego Acuña</td>
+               <td>Aumento User Storie</td>
+            </tr>
+            <tr>
+               <td>2.2</td>
+               <td>03/05/2024</td>
+               <td>Diego Acuña</td>
+               <td>Sprint 5.2(primera version)</td>
+            </tr>
+            <tr>
+               <td>2.3</td>
+               <td>03/05/2024</td>
+               <td>Diego Acuña</td>
+               <td>Mejora criterios de aceptacion en las Epicas</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -444,36 +468,62 @@
       <il><h3><a href="./content/chapter-4/chapter-4.md">4.8.1. Database Diagram</a></h3></il>
    </ul>
 
-<il><h1><a href="./content/chapter-5/chapter-5.md">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.1. Software Configuration Management</a></h3></il>
+<il><h1><a href="./content/chapter-5.1/chapter-5.1.md">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
+<il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1. Software Configuration Management</a></h3></il>
 
    <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.1. Software Development Environment Configuration</a></h3></il>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.2. Source Code Management</a></h3></il>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.1.4. Software Deployment Configuration</a></h3></il>
+      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.1. Software Development Environment Configuration</a></h3></il>
+      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.2. Source Code Management</a></h3></il>
+      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
+      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.1.4. Software Deployment Configuration</a></h3></il>
    </ul>
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
+<il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
    <ul>
       <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
-       <il><h3><a href="./content/chapter-5/chapter-5.md">5.3 Validation Interviews</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.1. Diseño de Entrevista</a></h3></il>
-          <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.2. Registro de Entrevista</a></h3></il>
-           <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
+      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.4 Video About The Product</a></h3></il>
+   </ul>
+      <ul>
+      <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1. Sprint 2</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.1. Sprint Planning 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.2. Sprint Backlog 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+   </ul>
+       <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3 Validation Interviews</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.1. Diseño de Entrevista</a></h3></il>
+          <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.2. Registro de Entrevista</a></h3></il>
+           <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
+      </ul>
+         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.4 Video About The Product</a></h3></il>
       <ul>
       </ul>
    </ul>
