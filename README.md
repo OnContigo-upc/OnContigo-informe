@@ -267,6 +267,18 @@
                <td>Diego Acuña</td>
                <td>Mejora criterios de aceptacion en las Epicas</td>
             </tr>
+            <tr>
+               <td>3.0</td>
+               <td>09/06/2024</td>
+               <td>Diego Acuña</td>
+               <td>Sprint 3, Validation interview</td>
+            </tr>
+              <tr>
+               <td>3.1</td>
+               <td>09/06/2024</td>
+               <td>Renzo Ramos</td>
+               <td>Database Diagram</td>
+            </tr>
     </table>
 </span>
 </div>
