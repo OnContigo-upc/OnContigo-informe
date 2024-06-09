@@ -449,14 +449,7 @@ Acceptance Tests automatizados, para Web Services
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.8.Team Collaboration Insights during Sprint.</a></h3></il>
 
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.3 Validation Interviews</a></h3></il>
 
 
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.3.1.Diseño de Entrevistas.</a></h3></il>
-
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.3.2.Registro de Entrevistas.</a></h3></il>
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.3.3.Evaluaciones según heurísticas.</a></h3></il>
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.4 Video About-the-Product.
-</a></h3></il>
 </ul>
  
