@@ -68,10 +68,10 @@
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
   <tr>
-    <td rowspan="3">Sprint 2</td>
-    <td rowspan="3">HU01: Registrar cuenta</td>
+    <td rowspan="3">Sprint 3</td>
+    <td rowspan="3">HU20: Registrar cuenta</td>
     <td>TA01</td>
-    <td>#182031223</td>
+    <td>#182031243</td>
     <td>Crear formulario de registro</td>
     <td>Desarrollar un formulario en la interfaz de usuario que permita a los usuarios ingresar sus datos</td>
     <td>5</td>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td>TA02</td>
-    <td>#182062223</td>
+    <td>#182031243</td>
     <td>Implementar validación de datos en el formulario</td>
     <td>Añadir validaciones al formulario de registro para asegurarse de que todos los campos sean ingresados correctamente antes de permitir que el usuario envíe el formulario</td>
     <td>4</td>
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>TA03</td>
-    <td>#182062223</td>
+    <td>#182031243</td>
     <td>Configurar FakeAPI para registro de usuarios</td>
     <td>Desarrollar la lógica en el servidor para recibir los datos del formulario de registro, validarlos y almacenarlos en la base de datos.</td>
     <td>4</td>
@@ -97,7 +97,7 @@
     <td>To-do</td>
   </tr>
   <tr>
-    <td rowspan="2">Sprint 2</td>
+    <td rowspan="2">Sprint 3</td>
     <td rowspan="2">HU02: Iniciar sesión</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -128,7 +128,7 @@
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU09:  Registrar fecha de cita</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -139,7 +139,7 @@
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU10:  Registrar fecha de procedimiento</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -150,7 +150,7 @@
     <td>Done</td>
   </tr>
    <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU11:  Registrar periodo de tratamiento</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -161,7 +161,7 @@
     <td>In process</td>
   </tr>
    <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU12: Registrar horario de medicamentos</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -172,7 +172,7 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU19: Revisar consultas</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -183,7 +183,7 @@
     <td>In process</td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU20: Ver lista de medicamentos</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -194,7 +194,7 @@
     <td>In process</td>
   </tr>
   <tr>
-    <td rowspan="1">Sprint 2</td>
+    <td rowspan="1">Sprint 3</td>
     <td rowspan="1">HU14:  Alarmas para pacientes</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -205,7 +205,7 @@
     <td>Done</td>
   </tr>
    <tr>
-    <td rowspan="2">Sprint 2</td>
+    <td rowspan="2">Sprint 3</td>
     <td rowspan="2">HU23:  Lista de mis pacientes</td>
     <td>TA01</td>
     <td>#182062235</td>
@@ -225,42 +225,42 @@
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">Sprint 2</td>
-    <td rowspan="2">HU24:  Agregar Paciente</td>
+    <td rowspan="2">Sprint 3</td>
+    <td rowspan="2">HU01:  Registrar Cuenta</td>
     <td>TA01</td>
     <td>#182062235</td>
-    <td> Diseñar formulario de agregación de pacientes</td>
-    <td>Crear un formulario en la interfaz de usuario que permita al médico ingresar el DNI del paciente para agregarlo a su lista.</td>
-    <td>5</td>
-    <td>Belen Ramos</td>
+    <td>Desarrollar el Bounded Context Authentication</td>
+    <td>Crear el bounded context de Authentication con su respectiva estructura</td>
+    <td>3</td>
+    <td>Gustavo Zapata</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>TA02</td>
     <td>#182062223</td>
-    <td> Implementar la funcionalidad de agregación en a la FakeAPI</td>
-    <td>Desarrollar la lógica en el servidor para procesar la información ingresada en el formulario</td>
+    <td> Crear los endpoints de Profiles y documentarlos en SwaggerUI</td>
+    <td>Desarrollar los controladores del Bounded Context</td>
+    <td>2</td>
+    <td>Gustavo Zapata</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Sprint 3</td>
+    <td rowspan="2">HU01:  Listar medicamentos</td>
+    <td>TA01</td>
+    <td>#182062235</td>
+    <td> Desarrollar el Bounded Context HealthTracking</td>
+    <td>Crear los aggregates,entities,commands,queries, services y repositories del Bounded Context HealthTraking</td>
     <td>4</td>
     <td>Renzo Ramos</td>
-    <td>To-do</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Sprint 2</td>
-    <td rowspan="2">HU25:  Eliminar Paciente</td>
-    <td>TA01</td>
-    <td>#182062235</td>
-    <td> Implementar la opción de eliminación en la interfaz de usuario</td>
-    <td>Añadir un botón o enlace "Eliminar Paciente" en la interfaz de usuario, al lado de cada paciente en la lista, que permita al médico eliminar a un paciente específico.</td>
-    <td>4</td>
-    <td>Belen Ramos</td>
-    <td>Done</td>
+    <td>In process</td>
   </tr>
   <tr>
     <td>TA02</td>
     <td>#182062223</td>
-    <td> Desarrollar la lógica de eliminación en la FakeAPI</td>
-    <td> Programar la lógica en el servidor para manejar la solicitud de eliminación.</td>
-    <td>6</td>
+    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Medications</td>
+    <td> Crear los controladores para documentar los endpoints de Medications</td>
+    <td>2</td>
     <td>Renzo Ramos</td>
     <td>To-do</td>
   </tr>
@@ -318,19 +318,19 @@
   </tr>
   <tr>
     <td>Backend</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>07/06/2024</td>
+    <td>feature/Medications</td>
+    <td>9a08b92</td>
+    <td>feat:Medications and other aggregates added</td>
+    <td>feat:Medications and other aggregates added</td>
+   <td>09/06/2024</td>
   </tr>
    <tr>
     <td>Backend</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>07/06/2024</td>
+    <td>feature/Authentication</td>
+    <td>919896b</td>
+    <td>feat:added BC authentication</td>
+    <td>feat:added BC authentication</td>
+   <td>09/06/2024</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.4. Testing Suite Evidence for Sprint Review</a></h3></il>
