@@ -29,25 +29,25 @@
     <th>Attendees</th>
     <td>Juan Pablo/ Diego Acuña / Belen Ramos / Renzo Ramos / Gustavo Pardo</td>
   </tr>
-  <tr>
+    <tr>
     <th>Sprint Review Summary</th>
-    <td></td>
+    <td>En el Sprint anterior, la meta fue el desarrollo del FrontEnd. En este Sprint logramos corregir algunos detalles de responsive y algunas funcionalidad del FrontEnd.</td>
   </tr>
   <tr>
     <th>Sprint Retrospective Summary</th>
-    <td></td>
+    <td>Aún así desarrollada el FrontEnd. Falto implemnetar mas funcionalidades como metodos delete o put</td>
   </tr>
   <tr>
     <th>Sprint Goal</th>
-    <td></td>
+    <td>La meta de este Sprint es elaborar una primera version de nuestro RESTFul API</td>
   </tr>
   <tr>
     <th>Sprint Velocity</th>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td></td>
+    <td>20</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.2. Sprint Backlog 3</a></h3></il>
@@ -277,178 +277,88 @@
     <th>Committed on (Date)</th>
   </tr>
   <tr>
-    <td>Diego Acuna /</td>
-    <td>main</td>
+    <td>Diego Acuna /FrontEnd</td>
+    <td>feature/responsive</td>
     <td>386f0d0</td>
-    <td>Initial commit</td>
-    <td>Initial commit</td>
-    <td>29/04/2024</td>
+    <td>feat:Patients Overview Responsive</td>
+    <td>feat:Patients Overview Responsive</td>
+    <td>01/06/2024</td>
   </tr>
    <tr>
-    <td>Diego Acuna /</td>
-    <td>develop</td>
+    <td>Belen Ramos /FrontEnd</td>
+    <td>feature/responsive</td>
     <td>386f145</td>
-    <td>feat:instalacion de dependencias</td>
-    <td>feat:instalacion de dependencias</td>
-    <td>29/04/2024</td>
-  </tr>
-   <tr>
-    <td>Renzo Ramos</td>
-    <td>feature/Calendario-jsonServer </td>
-    <td>386f145</td>
-    <td>
-feat: Calendar and jsonserver added</td>
-    <td>
-feat: Calendar and jsonserver added</td>
-    <td>3/05/2024</td>
-  </tr>
-
-  <tr>
-    <td>Renzo Ramos</td>
-    <td>feature/Api-Communication</td>
-    <td>386f145</td>
-    <td>
-feat:Api files added</td>
-    <td>
-feat:Api files added</td>
-    <td>3/05/2024</td>
-  </tr>
-
-  
-  <tr>
-    <td>Renzo Ramos</td>
-    <td>feature/Api-Communication </td>
-    <td>386f145</td>
-    <td>
-feat: cards modified</td>
-    <td>
-feat: cards modified</td>
-    <td>3/05/2024</td>
-  </tr>
-
-   <tr>
-    <td>Diego Acuna</td>
-    <td>feature/datatabl </td>
-    <td>386f145</td>
-    <td>
-feat:added data table and components</td>
-    <td>
-feat:added data table and components</td>
-    <td>3/05/2024</td>
-  </tr>
-
-  <tr>
-    <td>Belen Ramos</td>
-    <td>feature/modal-component </td>
-    <td>386f145</td>
-    <td>
-feat: add modal components with data static</td>
-    <td>
-feat: add modal components with data static</td>
-    <td>3/05/2024</td>
-  </tr>
-
-  <tr>
-    <td>Diego Acuna</td>
-    <td>feature/firebase-1</td>
-    <td>386f145</td>
-    <td>
-feat:deploy firebase</td>
-    <td>
-feat:deploy firebase</td>
-    <td>3/05/2024</td>
-  </tr>
-   <tr>
-    <td>Diego Acuna</td>
-    <td>feature/firebase-1</td>
-    <td>386f145</td>
-    <td>
-feat:deploy firebase</td>
-    <td>
-feat:deploy firebase</td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Gustavo Ramos</td>
-    <td>feature/dashboard-styles</td>
-    <td>386f145</td>
-    <td>
-feat : added public components</td>
-    <td>
-feat : added public components</td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Diego Acuña</td>
-    <td>feature/router-fix </td>
-    <td>386f145</td>
-    <td>
-feat:added routing</td>
-    <td>
-feat:added routing</td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Renzo Ramos</td>
-    <td>develop </td>
-    <td>386f145</td>
-    <td>feat: cards limitated to show just 5 cards
-</td>
-    <td>feat: cards limitated to show just 5 cards
-</td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Belen Ramos</td>
-    <td>feature/center-login</td>
-    <td>386f145</td>
-    <td>
-feat: center and add style to login</td>
-    <td>
-feat: center and add style to login</td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Belen Ramos</td>
-    <td>feature/add-account-styles </td>
-    <td>386f145</td>
-    <td>
-feat: add styles to create account</td>
-    <td>
-feat: add styles to create account/td>
-    <td>4/05/2024</td>
-  </tr>
-   <tr>
-    <td>Belen Ramos</td>
-    <td>feature/add-account-styles </td>
-    <td>386f145</td>
-    <td>
-feat: add styles to dashboard</td>
-    <td>
-feat: add styles to dashboard</td>
-    <td>4/05/2024</td>
+    <td>feat:dashBoard responsive</td>
+    <td>feat:dashBoard responsive</td>
+    <td>01/06/2024</td>
   </tr>
     <tr>
-    <td>Diego Acuña</td>
-    <td>feature/connect-components </td>
+    <td>Diego Acuna /FrontEnd</td>
+    <td>feature/landing-page</td>
+    <td>386f0d0</td>
+    <td>feat:added landing page</td>
+    <td>feat:added landing page</td>
+    <td>07/06/2024</td>
+  </tr>
+    <tr>
+    <td>Belen Ramos /FrontEnd</td>
+    <td>feature/responsive</td>
     <td>386f145</td>
-    <td>
-feat:conectar componentes de lista de pacientes y popups</td>
-    <td>
-feat:conectar componentes de lista de pacientes y popups</td>
-    <td>4/05/2024</td>
+    <td>feat:modals responsive</td>
+    <td>feat:modals responsive</td>
+   <td>07/06/2024</td>
+  </tr>
+    <tr>
+    <td>Belen Ramos /FrontEnd</td>
+    <td>feature/sidebar</td>
+    <td>386f145</td>
+    <td>feat:add sidebar</td>
+    <td>feat:add sidebar</td>
+   <td>07/06/2024</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td>07/06/2024</td>
+  </tr>
+   <tr>
+    <td>Backend</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td>07/06/2024</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.4. Testing Suite Evidence for Sprint Review</a></h3></il>
          No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
 Acceptance Tests automatizados, para Web Services
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.5. Execution Evidence for Sprint Review</a></h3></il>
+
+
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.6. Services Documentation Evidence for Sprint Review</a></h3></il>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.7. Software Deployment Evidence for Sprint Review</a></h3></il>
 
+#### FrontEnd We App deployment link:  https://onc-frontend-202401.web.app/
+<img src="../images/chapter-5/sprint5.2-deployment/deployment1.png"/> <br>  <br>
+
+<img src="../images/sprint3-images/deploy/frontdeploy1.png"/>
+<img src="../images/sprint3-images/deploy/frontdeplo2.png"/>
+
+#### API RESTFul deployment:
+
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.8.Team Collaboration Insights during Sprint.</a></h3></il>
+FRONTEND & BACKEND
 
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/branches.png"/> <br>
+<img src="../images/sprint3-images/insights/commits.png"/> <br>
+<img src="../images/chapter-5/sprint5.2-teamcollaboration/members.png"/> <br>
+<img src="../images/sprint3-images//insights/network.png"/> <br>
+<img src="../images/sprint3-images/insights/overview.png"/> <br>
 
 
 </ul>
