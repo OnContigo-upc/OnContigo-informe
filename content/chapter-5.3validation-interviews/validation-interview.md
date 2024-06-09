@@ -35,7 +35,7 @@ Médicos:
 
 Entrevista 1: Verónica Mendoza, 52, Chorrillos, profesora de tiempo completo en la upc ; familiar de paciente oncológico
 <img src="../images/validation-interview/juan1.png"/>
-
+<br>https://drive.google.com/file/d/1aMSpnoVOVk1TBoXqOUFQYVw73LOTRLD1/view?usp=sharing
 
 Resumen:
 
@@ -46,7 +46,7 @@ La entrevistada consideró que nuestra aplicación sería de mucha ayuda para pe
 <br>
 Entrevista 2: Manuel Luis Ramos, 52, San Luis, posición administrativa en resocentro ; familiar de paciente oncológico
 <img src="../images/validation-interview/juan2.png"/>
-
+<br>https://drive.google.com/file/d/1uc8FAaD1ArRYNPcP5_7kGPWF3bItJdF_/view?usp=sharing <br>
 
 Resumen:
 
@@ -56,7 +56,7 @@ Para la aplicación, el entrevistado considera que todo está claro y conciso y 
 <br>
 Entrevista 3: Eduard Travezaño, 20, San Juan de Lurigancho, Estudiante universitario ; familiar de paciente
 <img src="../images/validation-interview/juan3.png"/>
-
+<br>https://drive.google.com/file/d/13l0HOKYB5VeZ4CLpG4pVyeep5gKchQea/view?usp=sharing<br>
 
 Resumen:
 

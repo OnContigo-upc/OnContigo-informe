@@ -67,7 +67,6 @@
     <th>Assigned To</th>
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
- d
   <tr>
     <td rowspan="2">Sprint 3</td>
     <td rowspan="2">HU01:  Registrar Cuenta</td>
@@ -75,7 +74,7 @@
     <td>#182062235</td>
     <td>Desarrollar el Bounded Context Authentication</td>
     <td>Crear el bounded context de Authentication con su respectiva estructura</td>
-    <td>3</td>
+    <td>4</td>
     <td>Gustavo Zapata</td>
     <td>Done</td>
   </tr>
@@ -84,7 +83,7 @@
     <td>#182062223</td>
     <td> Crear los endpoints de Profiles y documentarlos en SwaggerUI</td>
     <td>Desarrollar los controladores del Bounded Context</td>
-    <td>2</td>
+    <td>4</td>
     <td>Gustavo Zapata</td>
     <td>Done</td>
   </tr>
@@ -95,7 +94,7 @@
     <td>#182062235</td>
     <td> Desarrollar el Bounded Context HealthTracking</td>
     <td>Crear los aggregates,entities,commands,queries, services y repositories del Bounded Context HealthTraking</td>
-    <td>4</td>
+    <td>6</td>
     <td>Renzo Ramos</td>
     <td>In process</td>
   </tr>
@@ -104,7 +103,7 @@
     <td>#182062223</td>
     <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Medications</td>d
     <td> Crear los controladores para documentar los endpoints de Medications</td>
-    <td>2</td>
+    <td>4</td>
     <td>Renzo Ramos</td>
     <td>To-do</td>
   </tr>
@@ -181,9 +180,17 @@
          No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
 Acceptance Tests automatizados, para Web Services
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.5. Execution Evidence for Sprint Review</a></h3></il>
-
-
+Implementacion de la Landing page en el FrontEnd<br>
+<img src="../images/sprint3-images/execution/lamding.png"/> <br>
+Responsive Modals<br>
+<img src="../images/sprint3-images/execution/modals.png"/> <br>
+SideBar del FrontEND <br>
+<img src="../images/sprint3-images/execution/side.png"/> <br>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+<img src="../images/sprint3-images/services/health.png"/> <br>
+<img src="../images/sprint3-images/services/profiles.png"/> <br>
+<img src="../images/sprint3-images/services/swagger.png"/> <br>
+
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.7. Software Deployment Evidence for Sprint Review</a></h3></il>
 
 #### FrontEnd We App deployment link:  https://onc-frontend-202401.web.app/
@@ -197,7 +204,6 @@ Acceptance Tests automatizados, para Web Services
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.8.Team Collaboration Insights during Sprint.</a></h3></il>
 FRONTEND & BACKEND
-
 <img src="../images/chapter-5/sprint5.2-teamcollaboration/branches.png"/> <br>
 <img src="../images/sprint3-images/insights/commits.png"/> <br>
 <img src="../images/chapter-5/sprint5.2-teamcollaboration/members.png"/> <br>
