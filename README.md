@@ -279,6 +279,12 @@
                <td>Renzo Ramos</td>
                <td>Database Diagram</td>
             </tr>
+            <tr>
+               <td>3.2</td>
+               <td>27/06/2024</td>
+               <td>Juan Ramos</td>
+               <td>Readme Update</td>
+            </tr>
     </table>
 </span>
 </div>
@@ -499,7 +505,7 @@ Como equipo, utilizamos nuestros conocimientos previos en Vue.js y PrimeVue para
    </ul>
 <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
+      <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1. Sprint 1</a></h3></il>
       <ul>
          <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
          <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
@@ -512,38 +518,51 @@ Como equipo, utilizamos nuestros conocimientos previos en Vue.js y PrimeVue para
       </ul>
    </ul>
       <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.1. Sprint 1</a></h3></il>
+      <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2. Sprint 2</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.1. Sprint Planning 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.2. Sprint Backlog 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.2/chatper-5.2.md">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+   </ul>
+   <ul>
+      <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3. Sprint 3</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.1. Sprint Planning 3</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.2. Sprint Backlog 3</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3/chatper-5.3.md">5.2.3.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
       <ul>
-      <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1. Sprint 2</a></h3></il>
+      <il><h3><a href="./content/chapter-5.4/chatper-5.3.md">5.2.3. Sprint 4</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.1. Sprint Planning 2</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.2. Sprint Backlog 2</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="./content/chapter-5.2/chapter-5.2.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.1. Sprint Planning 4</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.2. Sprint Backlog 4</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
-       <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3 Validation Interviews</a></h3></il>
+       <il><h3><a href="./content/chapter-5.3validation-interviews/validation-interview.md">5.3 Validation Interviews</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.1. Diseño de Entrevista</a></h3></il>
-          <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.2. Registro de Entrevista</a></h3></il>
-           <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
+         <il><h3><a href="./content/chapter-5.3validation-interviews/validation-interview.md">5.3.1. Diseño de Entrevista</a></h3></il>
+          <il><h3><a href="./content/chapter-5.3validation-interviews/validation-interview.md">5.3.2. Registro de Entrevista</a></h3></il>
+           <il><h3><a href="./content/chapter-5.3validation-interviews/validation-interview.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
       </ul>
-         <il><h3><a href="./content/chapter-5.1/chapter-5.1.md">5.4 Video About The Product</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4 video about the product/abouttheproduct.md">5.4 Video About The Product</a></h3></il>
       <ul>
       </ul>
    </ul>
