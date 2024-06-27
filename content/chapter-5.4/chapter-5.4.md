@@ -1,16 +1,16 @@
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3 Sprint 3</a></h3></il>
+<il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4 Sprint 4</a></h3></il>
    <ul>
-      <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3. Sprint 3</a></h3></il>
+      <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4 Sprint 4</a></h3></il>
       <ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.3.1. Sprint Planning 3</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.1. Sprint Planning 4</a></h3></il>
          <table>
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 3</td>
+    <td>Sprint 4</td>
   </tr>
   <tr>
     <th>Sprint Planning Date</th>
-    <td>2024-05-29</td>
+    <td>2024-15-29</td>
   </tr>
   <tr>
     <th>Time</th>
@@ -30,15 +30,15 @@
   </tr>
     <tr>
     <th>Sprint Review Summary</th>
-    <td>En el Sprint anterior, la meta fue el desarrollo del FrontEnd. En este Sprint logramos corregir algunos detalles de responsive y algunas funcionalidad del FrontEnd.</td>
+    <td>El objetivo del sprint anterior fue el desarrollo del Back End. Para este sprint, la meta fue centrada en la finalización del front end y back end y de la corrección de errores encontrados para finalizar el proyecto.</td>
   </tr>
   <tr>
     <th>Sprint Retrospective Summary</th>
-    <td>Aún así desarrollada el FrontEnd. Falto implemnetar mas funcionalidades como metodos delete o put</td>
+    <td>Aún había ciertas partes faltantes al back end y front end por lo que el grupo se ha enfocado a corregirlas.</td>
   </tr>
   <tr>
     <th>Sprint Goal</th>
-    <td>La meta de este Sprint es elaborar una primera version de nuestro RESTFul API</td>
+    <td>La meta de este Sprint es corregir los errores encontrados y la adición de elementos faltantes en los sprints anteriores.</td>
   </tr>
   <tr>
     <th>Sprint Velocity</th>
