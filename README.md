@@ -544,7 +544,7 @@ Como equipo, utilizamos nuestros conocimientos previos en Vue.js y PrimeVue para
       </ul>
    </ul>
       <ul>
-      <il><h3><a href="./content/chapter-5.4/chatper-5.4.md">5.2.4. Sprint 4</a></h3></il>
+      <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4. Sprint 4</a></h3></il>
       <ul>
          <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.1. Sprint Planning 4</a></h3></il>
          <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.2. Sprint Backlog 4</a></h3></il>
