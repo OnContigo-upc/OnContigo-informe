@@ -108,7 +108,7 @@
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.3. Development Evidence for Sprint Review</a></h3></il>
-        En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación de la primera version del Front End y mejora de la Landing Page. Se implementaron ramas a partir de la rama develop para que cada integrante
+        En esta sección se presentan los commits realizados por los integrantes del equipo para las últimas partes del back end restantes.
 <table border="1">
   <tr>
     <th>Repository</th>
@@ -119,60 +119,84 @@
     <th>Committed on (Date)</th>
   </tr>
   <tr>
-    <td>Diego Acuna /FrontEnd</td>
-    <td>feature/responsive</td>
-    <td>386f0d0</td>
-    <td>feat:Patients Overview Responsive</td>
-    <td>feat:Patients Overview Responsive</td>
-    <td>01/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>/feature/iam-auth </td>
+    <td>61173a7</td>
+    <td>feat: add iam authentication</td>
+    <td>feat: add iam authentication</td>
+    <td>26/06/2024</td>
   </tr>
    <tr>
-    <td>Belen Ramos /FrontEnd</td>
-    <td>feature/responsive</td>
-    <td>386f145</td>
-    <td>feat:dashBoard responsive</td>
-    <td>feat:dashBoard responsive</td>
-    <td>01/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>481d1c3</td>
+    <td>Merge pull request #4 from RenzoRamosR/feature/iam-auth</td>
+    <td>Merge pull request #4 from RenzoRamosR/feature/iam-auth</td>
+    <td>26/06/2024</td>
   </tr>
     <tr>
-    <td>Diego Acuna /FrontEnd</td>
-    <td>feature/landing-page</td>
-    <td>386f0d0</td>
-    <td>feat:added landing page</td>
-    <td>feat:added landing page</td>
-    <td>07/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>c95e30d</td>
+    <td>feat: patient class</td>
+    <td>feat: patient class</td>
+    <td>26/06/2024</td>
   </tr>
     <tr>
-    <td>Belen Ramos /FrontEnd</td>
-    <td>feature/responsive</td>
-    <td>386f145</td>
-    <td>feat:modals responsive</td>
-    <td>feat:modals responsive</td>
-   <td>07/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>bef517c</td>
+    <td>feat: doctor class added</td>
+    <td>feat: doctor class added</td>
+    <td>26/06/2024</td>
   </tr>
     <tr>
-    <td>Belen Ramos /FrontEnd</td>
-    <td>feature/sidebar</td>
-    <td>386f145</td>
-    <td>feat:add sidebar</td>
-    <td>feat:add sidebar</td>
-   <td>07/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/HealthTracking</td>
+    <td>a72e3e1</td>
+    <td>feat: doctor and patient outboundservices added</td>
+    <td>feat: doctor and patient outboundservices added</td>
+    <td>27/06/2024</td>
   </tr>
   <tr>
-    <td>Backend</td>
-    <td>feature/Medications</td>
-    <td>9a08b92</td>
-    <td>feat:Medications and other aggregates added</td>
-    <td>feat:Medications and other aggregates added</td>
-   <td>09/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/HealthTracking</td>
+    <td>7bed46d</td>
+    <td>feat: HealthTracking updated</td>
+    <td>feat: HealthTracking updated</td>
+    <td>27/06/2024</td>
   </tr>
    <tr>
-    <td>Backend</td>
-    <td>feature/Authentication</td>
-    <td>919896b</td>
-    <td>feat:added BC authentication</td>
-    <td>feat:added BC authentication</td>
-   <td>09/06/2024</td>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/HealthTracking</td>
+    <td>83dda16</td>
+    <td>fixed</td>
+    <td>fixed</td>
+    <td>27/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>3081a8f</td>
+    <td>Merge pull request #5 from RenzoRamosR/feature/HealthTracking</td>
+    <td>Merge pull request #5 from RenzoRamosR/feature/HealthTracking</td>
+    <td>27/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/HealthTracking</td>
+    <td>2b69198</td>
+    <td>feat(healthTracking): New endpoints added</td>
+    <td>feat(healthTracking): New endpoints added</td>
+    <td>27/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>072ffb6</td>
+    <td>Merge pull request #6 from RenzoRamosR/feature/HealthTracking</td>
+    <td>Merge pull request #6 from RenzoRamosR/feature/HealthTracking</td>
+    <td>27/06/2024</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.4. Testing Suite Evidence for Sprint Review</a></h3></il>
