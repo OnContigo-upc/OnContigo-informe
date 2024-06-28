@@ -42,11 +42,11 @@
   </tr>
   <tr>
     <th>Sprint Velocity</th>
-    <td>4</td>
+    <td>6</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>18</td>
+    <td>24</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.2. Sprint Backlog 4</a></h3></il>
@@ -63,17 +63,8 @@
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
   <tr>
-    <td rowspan="2">Sprint 4</td>
-    <td rowspan="2">HU01:  Registrar Cuenta</td>
-    <td>TA01</td>
-    <td>#182062235</td>
-    <td>Desarrollar el Bounded Context Authentication</td>
-    <td>Crear el bounded context de Authentication con su respectiva estructura</td>
-    <td>4</td>
-    <td>Gustavo Zapata</td>
-    <td>Done</td>
-  </tr>
-  <tr>
+    <td rowspan="6">Sprint 4</td>
+    <td>TS01: Registro de usuario</td>
     <td>TA02</td>
     <td>#182062223</td>
     <td> Crear los endpoints de Profiles y documentarlos en SwaggerUI</td>
@@ -83,8 +74,17 @@
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">Sprint 4</td>
-    <td rowspan="2">HU01:  Listar medicamentos</td>
+    <td>TS02: Autenticación de usuario</td>
+    <td>TA01</td>
+    <td>#182062235</td>
+    <td>Desarrollar el Bounded Context Authentication</td>
+    <td>Crear el bounded context de Authentication con su respectiva estructura</td>
+    <td>4</td>
+    <td>Gustavo Zapata</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS03:  Registro de medicamentos</td>
     <td>TA01</td>
     <td>#182062235</td>
     <td> Desarrollar el Bounded Context HealthTracking</td>
@@ -95,9 +95,28 @@
   </tr>
   <tr>
     <td>TA02</td>
-    <td>#182062223</td>
+    <td>#182062348</td>
     <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Medications</td>d
     <td> Crear los controladores para documentar los endpoints de Medications</td>
+    <td>4</td>
+    <td>Renzo Ramos</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS04:  Registro de citas</td>
+    <td>TA01</td>
+    <td>#182062173</td>
+    <td> Desarrollar el Bounded Context Appointments</td>
+    <td>Crear los aggregates,entities,commands,queries, services y repositories del Bounded Context Appointments</td>
+    <td>6</td>
+    <td>Renzo Ramos</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>#182062223</td>
+    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Citas</td>d
+    <td> Crear los controladores para documentar los endpoints de Citas</td>
     <td>4</td>
     <td>Renzo Ramos</td>
     <td>To-do</td>
