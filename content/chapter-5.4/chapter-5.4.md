@@ -254,9 +254,7 @@ Responsive Modals<br>
 SideBar del FrontEND <br>
 <img src="../images/sprint3-images/execution/side.png"/> <br>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-<img src="../images/sprint3-images/services/health.png"/> <br>
-<img src="../images/sprint3-images/services/profiles.png"/> <br>
-<img src="../images/sprint3-images/services/swagger.png"/> <br>
+<img src="../images/sprint4-images/swagger.png"/> <br>
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.7. Software Deployment Evidence for Sprint Review</a></h3></il>
 
@@ -271,10 +269,10 @@ SideBar del FrontEND <br>
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.8.Team Collaboration Insights during Sprint.</a></h3></il>
 FRONTEND & BACKEND
-<img src="../images/chapter-5/sprint5.2-teamcollaboration/branches.png"/> <br>
-<img src="../images/sprint3-images/insights/commits.png"/> <br>
+<img src="../images/sprint4-images/branches.png"/> <br>
+<img src="../images/sprint4-images/commits.png"/> <br>
 <img src="../images/chapter-5/sprint5.2-teamcollaboration/members.png"/> <br>
-<img src="../images/sprint3-images//insights/network.png"/> <br>
+<img src="../images/sprint4-images/network.png"/> <br>
 <img src="../images/sprint3-images/insights/overview.png"/> <br>
 
 
