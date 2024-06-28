@@ -96,7 +96,7 @@
   <tr>
     <td>TA02</td>
     <td>#182062348</td>
-    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Medications</td>d
+    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Medications</td>
     <td> Crear los controladores para documentar los endpoints de Medications</td>
     <td>4</td>
     <td>Renzo Ramos</td>
@@ -115,7 +115,7 @@
   <tr>
     <td>TA02</td>
     <td>#182062223</td>
-    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Citas</td>d
+    <td> Realizar los endpoints con los métodos http GET POST DELETE PATCH de Citas</td>
     <td> Crear los controladores para documentar los endpoints de Citas</td>
     <td>4</td>
     <td>Renzo Ramos</td>
