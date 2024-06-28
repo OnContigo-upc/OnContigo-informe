@@ -285,6 +285,24 @@
                <td>Juan Ramos</td>
                <td>Readme Update</td>
             </tr>
+            <tr>
+               <td>3.3</td>
+               <td>27/06/2024</td>
+               <td>Juan Ramos</td>
+               <td>Sprint 4 added</td>
+            </tr>
+            <tr>
+               <td>3.4</td>
+               <td>27/06/2024</td>
+               <td>Juan Ramos</td>
+               <td>Sprint 4 update</td>
+            </tr>
+            <tr>
+               <td>3.5</td>
+               <td>28/06/2024</td>
+               <td>Juan Ramos</td>
+               <td>Readme update</td>
+            </tr> 
     </table>
 </span>
 </div>
@@ -308,33 +326,34 @@
       </tr>
       <tr>
          <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
-         </br><strong>TP1:</strong>Para esta entrega, he participado activamente en las reuniones grupal y la designacion de tareas. Ademas de colaborar en el desarrollo de la Web App FrontEnd </br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd
+         </br><strong>TP1:</strong>Para esta entrega, he participado activamente en las reuniones grupal y la designacion de tareas. Ademas de colaborar en el desarrollo de la Web App FrontEnd </br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd</br><strong>TF1:</strong> Para esta entrega final, participé y me encargué de iniciar las reuniones grupales para finalizar el proyecto.
 <br><br>
-         <td rowspan="4">TB1: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente <br><br><br>TP1:
-Como grupo, colaboramos activamente en reuniones, división de tareas y comunicación efectiva para desarrollar exitosamente los componentes asignados<br>TB2:
+         <td rowspan="4"><strong>TB1:</strong> Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente <br><br><br><strong>TP1:</strong>
+Como grupo, colaboramos activamente en reuniones, división de tareas y comunicación efectiva para desarrollar exitosamente los componentes asignados<br><br><br><strong>TB2:</strong>
 Como equipo, trabajamos juntos de manera activa en reuniones, distribución de tareas y comunicación eficaz para desarrollar con éxito los componentes que se nos asignan.
+            <br><br><br><strong>TF1:</strong>Como equipo, pudimos trabajar de forma colaborativa para apoyarnos en encontrar las partes faltantes de nuestro trabajo y completarlas de forma exitosa.
          </td>
       </tr>
       <tr>
          <td><strong>Gustavo Pardo</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los , analisis de entrevistas en general, empathy map y Product backlog.
-         </br><strong>TP1:</strong>Participe continuamente en las reuniones programadas y  en la creacion de componentes de la aplicacion. Aplicando lo aprendido en las clases.</br><strong>TB2</strong>Participe continuamente en las reuniones programadas y  en la elaboracion del la primera version del Web Service RESTFul API
+         </br><strong>TP1:</strong>Participe continuamente en las reuniones programadas y  en la creacion de componentes de la aplicacion. Aplicando lo aprendido en las clases.</br><strong>TB2</strong>Participe continuamente en las reuniones programadas y  en la elaboracion del la primera version del Web Service RESTFul API</br><strong>TB2:</strong>Participé con reuniones grupales y del desarrollo inicial del back end.</br><strong>TF1:</strong>Para esta entrega final, me he reunido continuamente con mi grupo para realizar los cambios finales en el back end.
 <br><br>
          </td>
       </tr>
       <tr>
          <td><strong>Alexandra Ramos</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.
-         </br><strong>TP1:</strong>Participé activamente en las reuniones del equipo, lo que nos permitió dividirnos el trabajo y comentar los avances. Asimismo, pude desarrollar los componentes correspondientes poniendo en práctica lo aprendido en clase.</br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd
+         </br><strong>TP1:</strong>Participé activamente en las reuniones del equipo, lo que nos permitió dividirnos el trabajo y comentar los avances. Asimismo, pude desarrollar los componentes correspondientes poniendo en práctica lo aprendido en clase.</br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd</br><strong>TF1:</strong> En esta entrega final, he participado en las reuniones grupales para identificar los errores y segmentos restantes para finalizar el trabajo.
 <br><br>
          </td>
       </tr>
       <tr>
          <td><strong>Juan Ramos </strong></br>
          </br><strong>TB1:</strong>
-         </br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page<br><strong>TP1:</strong>Durante esta entrega pudimos dividirnos el trabajo en las secciones que mejor nos enfocábamos, pero con el apoyo continuo del resto del grupo. Gracias a esto pude desarrollar los componentes login y de crear cuenta sin mucho problema.</br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd
+         </br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page<br><strong>TP1:</strong>Durante esta entrega pudimos dividirnos el trabajo en las secciones que mejor nos enfocábamos, pero con el apoyo continuo del resto del grupo. Gracias a esto pude desarrollar los componentes login y de crear cuenta sin mucho problema.</br><strong>TB2:</strong>Para esta entrega, he participado activamente en las reuniones grupal. Ademas de colaborar en el desarrollo de la Web App FrontEnd.</br><strong>TF1:</strong> Para esta entrega final, he participado en las reuniones grupales y al momento de dividir el trabajo grupal, además de apoyar en el desarrollo de back end y del informe.
 <br><br>
       <strong> Renzo Ramos</strong></br>TB1:</strong>
          </br>Para esta entrega me adherí al grupo hace poco tiempo y rápidamente cumplí con las tareas que se me asignaron. Participando activamente en el desarrollo de la landing page.
-<br><br><strong>TP1:</strong>Nos repartimos el trabajo mediante reuniones y nos comunicamos adecuadamente para organizar el desarrollo de los componentes de la aplicación web.</br><strong>TB2</strong>Participe continuamente en las reuniones programadas y  en la elaboracion del la primera version del Web Service RESTFul API
+<br><strong>TP1:</strong>Nos repartimos el trabajo mediante reuniones y nos comunicamos adecuadamente para organizar el desarrollo de los componentes de la aplicación web.</br><strong>TB2</strong>Participe continuamente en las reuniones programadas y  en la elaboracion del la primera version del Web Service RESTFul API</br><strong>TB2:</strong> En esta entrega me comuniqué con mi grupo para un buen desarrollo del Back End inicial del proyecto.</br><strong>TF1:</strong> En esta entrega final, he colaborado con mi grupo y participado en las reuniones para finalizar el trabajo, principalmente el back end.
       <br>
       </td>
       </br>
@@ -346,33 +365,38 @@ Como equipo, trabajamos juntos de manera activa en reuniones, distribución de t
          <td><strong>Diego Jose Acuña Gomez
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br><strong>TP1:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js. Ademas utilizar componentes de PrimeVue, como DataTable<br>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js y metodo HTTPS<br>
+         </br><strong>TP1:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js. Ademas utilizar componentes de PrimeVue, como DataTable<br><strong></strong>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js y metodo HTTPS</br><strong>TF1:</strong> Para esta entrega final pude aplicar mis conocimientos en el back end para finalizar el proyecto con mi grupo.
         </td>
-         <td rowspan="4">T1: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado <br><br> TP1:
-Como grupo, aplicamos conocimientos previos en Vue.js y PrimeVue para desarrollar componentes y estilos correctamente. Colaboramos en la creación de funcionalidades como la tabla editable y el calendario, priorizando la buena programación. <br> TB2:
-Como equipo, utilizamos nuestros conocimientos previos en Vue.js y PrimeVue para desarrollar correctamente los componentes y estilos. Colaboramos en la creación de funcionalidades, siempre priorizando una buena programación. Además, integramos  APIs RESTful .</td>
+         <td rowspan="4"><strong>TB1:</strong> Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado <br><br> <strong>TP1:</strong>
+Como grupo, aplicamos conocimientos previos en Vue.js y PrimeVue para desarrollar componentes y estilos correctamente. Colaboramos en la creación de funcionalidades como la tabla editable y el calendario, priorizando la buena programación. <br> <strong>TB2:</strong>
+Como equipo, utilizamos nuestros conocimientos previos en Vue.js y PrimeVue para desarrollar correctamente los componentes y estilos. Colaboramos en la creación de funcionalidades, siempre priorizando una buena programación. Además, integramos  APIs RESTful .
+<br><br> <strong>TF1:</strong>
+Como equipo, hemos aplicado nuestros conocimientos adquiridos en .NETcore para finalizar el back end de nuestro proyecto. Al trabajar de forma colaborativa, además, pudimos completar el resto de partes restantes en nuestro proyecto.
+         </td>
       </tr>
       <tr>
          <td><strong>Juan Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocía la manera correcta de diseñar los style guidelines utilizando figma
-         </br><strong>TP1:</strong>En esta entrega pude aplicar la creación y desarrollo de componentes en .vue y utilizar los estilos en ellos de forma correcta, conociendo la práctica de la buena programación y el DDD para un entregable ordenado.</td><br>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js<br>
+         </br><strong>TP1:</strong>En esta entrega pude aplicar la creación y desarrollo de componentes en .vue y utilizar los estilos en ellos de forma correcta, conociendo la práctica de la buena programación y el DDD para un entregable ordenado.<br>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js
+   </br><strong>TB2:</strong>En esta entrega pude apoyar a mis compañeros en el desarrollo de ciertos elementos de VUE.js restantes en el front end.
+   </br><strong>TF1:</strong> Para la entrega final, trabajé de forma grupal para finalizar el proyecto, aplicando los conocimientos de .NETcore para terminar los elementos del back end.
       </tr>
       <tr>
          <td><strong>Gustavo Pardo
          </br>TB1:</strong>
          </br>Para esta entrega conocia las herramientas para la elaboracion de user task matrix user journey mapping y empathy mapping.
-         </br><strong>TP1:</strong>Tuve como funcion crear los componentes tablescrollable donde permita editar y ver datos que necesite el usuario de parte de su doctor</td><br><strong>TB2:</strong>Para esta entrega conocia como hacer una RESTFul API<br>
+         </br><strong>TP1:</strong>Tuve como funcion crear los componentes tablescrollable donde permita editar y ver datos que necesite el usuario de parte de su doctor<br><strong>TB2:</strong>Para esta entrega conocia como hacer una RESTFul API</br><strong>TF1:</strong> Para esta entrega final, apliqué mis conocimientos de .NETcore para completar el backend junto a mis compañeros de grupo
       </tr>
       <tr>
          <td><strong>Renzo Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br><strong>TP1:</strong>Desarrollé la page del calendario con la ayuda de los componentes de Primvue, apliqué conocimientos como la comunicación entre componentes entre padre-hijo.<br><strong>TB2:</strong>Para esta entrega conocia como hacer una RESTFul API<br>
+         </br><strong>TP1:</strong>Desarrollé la page del calendario con la ayuda de los componentes de Primvue, apliqué conocimientos como la comunicación entre componentes entre padre-hijo.<br><strong>TB2:</strong>Para esta entrega conocia como hacer una RESTFul API</br><strong>TF1:</strong>Para esta entrega final, conocí como realizar los endpoints correctos para una aplicación, lo que me servirá en el futuro de forma laboral.<br><br>
          <strong> Alexandra Ramos
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
-         </br><strong>TP1:</strong>Para esta entrega, apliqué lo aprendido al crear y desarrollar los componentes en .vue, aplicando los estilos correspondientes y aplicando las buenas prácticas de programación.<br><strong>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js y metodo HTTPS<br>
+         </br><strong>TP1:</strong>Para esta entrega, apliqué lo aprendido al crear y desarrollar los componentes en .vue, aplicando los estilos correspondientes y aplicando las buenas prácticas de programación.<br><strong>TB2:</strong>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js y metodo HTTPS</br><strong>TF1:</strong>Durante esta entrega final, utilicé mis conocimientos del back end para finalizar las partes restantes del proyecto, concluyendo nuestro trabajo final de forma satisfactoria.
          </br>
          </td>
       </tr>
