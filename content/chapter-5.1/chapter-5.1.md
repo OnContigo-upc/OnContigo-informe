@@ -479,15 +479,6 @@ https://oncontigo-upc.github.io/Landing-Page/
   <img src="../images/chapter-5/team-collaboration/network.png "/>
 
    </ul>
-       <il><h3><a href="./content/chapter-5/chapter-5.md">5.3 Validation Interviews</a></h3></il>
-      <ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.1. Diseño de Entrevista</a></h3></il>
-          <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.2. Registro de Entrevista</a></h3></il>
-           <il><h3><a href="./content/chapter-5/chapter-5.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
-      </ul>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.4 Video About The Product</a></h3></il>
-      <ul>
-      </ul>
    </ul>
 </ul>
  
