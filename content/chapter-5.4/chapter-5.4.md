@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <th>Sprint Planning Date</th>
-    <td>2024-15-29</td>
+    <td>2024-05-29</td>
   </tr>
   <tr>
     <th>Time</th>
