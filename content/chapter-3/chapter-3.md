@@ -341,6 +341,43 @@ Facilidad de Navegación: Los usuarios deben poder navegar fácilmente por la la
     </td>
     <td>EP08</td>
 </tr>
+<tr>
+    <td>TS01</td>
+    <td>Crear Endpoint para el registro de usuario</td>
+    <td>Como desarrollador de la aplicación<br>Quiero tener un endpoint de tipo POST<br>Para registrar usuarios nuevos en la aplicación</td>
+    <td>
+      E01: Creación de usuario nuevo<br>Dado que el usuario se encuentra en la pantalla de crear cuenta<br>Cuando ingrese sus datos de forma correcta Y seleccione el botón "registrarse"<br>Entonces su cuenta será creada correctamente
+    </td>
+    <td>EP01</td>
+</tr>
+<tr>
+    <td>TS02</td>
+    <td>Implementación de la autenticación de usuario</td>
+    <td>Como desarrollador<br>Quiero utilizar autenticación en las cuentas de mis usuarios<br>Para garantizar la seguridad de ellos</td>
+    <td>
+      E01: Iniciar sesión con credenciales válidas<br>Dado que el usuario se encuentre en la pantalla de inicio de sesión<br>Cuando ingrese correctamente sus datos Y seleccione el botón "iniciar sesión"<br>Entonces podrá ingresar a la aplicación con su usuario<br><br>
+      E01: Credenciales no válidas<br>Dado que el usuario se encuentre en la pantalla de inicio de sesión<br>Cuando ingrese incorrectamente sus datos Y seleccione el botón "iniciar sesión"<br>Entonces aparecerá un mensaje de que los datos son incorrectos
+    </td>
+    <td>EP01</td>
+</tr>
+<tr>
+    <td>TS03</td>
+    <td>Creación de Endpoint para ingreso de medicamentos</td>
+    <td>Como desarrollador<br>Quiero implementar los endpoints necesarios<br>Para el registro y visualización de los medicamentos de los pacientes</td>
+    <td>
+      E01: Visualización de los medicamentos<br>Dado que el paciente se encuentre en la pantalla principal<br>Cuando escojan la opción de medicamentos<br>Entonces podrán visualizar todos los medicamentos que tengan registrados por su médico.<br><br>
+      E02: Visualización de detalles de un medicamento<br>Dado que el paciente se encuentre en la pantalla de medicamentos<br>Cuando escoja uno de los medicamentos listados<br>Entonces se visualizarán los detalles del medicamento seleccionado
+    </td>
+    <td>EP07</td>
+</tr>
+<tr>
+    <td>TS04</td>
+    <td>Registro de fecha de cita</td>
+    <td>Como desarrollador<br>Quiero implementar los endpoints necesarios<br>Para el registro y visualización de las citas de pacientes y médicos</td>
+    <td>
+      E01: Vista de calendario<br>Dado que el usuario se encuentre en la pantalla principal<br>Cuando elija la opción calendario<br>Entonces se mostrará con detalle las fechas y horas de las citas programadas
+    <td>EP06</td>
+</tr>
 </table>
   <!-- Repite las filas similares para cada historia de usuario restante -->
 </table>
