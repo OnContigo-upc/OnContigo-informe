@@ -589,6 +589,11 @@ Como equipo, hemos aplicado nuestros conocimientos adquiridos en .NETcore para f
          <il><h3><a href="./content/chapter-5.4 video about the product/abouttheproduct.md">5.4 Video About The Product</a></h3></il>
       <ul>
       </ul>
+       <il><h3><a href="./content/chapter-6-conclusiones/conclusiones.md">Conclusiones</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-6-conclusiones/conclusiones.md">Conclusiones y Recomendaciones</a></h3></il>
+          <il><h3><a href="./content/chapter-6-conclusiones/conclusiones.md">Video About-The-Team</a></h3></il>
+      </ul>
    </ul>
 </ul>
  
