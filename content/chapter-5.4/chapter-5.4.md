@@ -42,19 +42,15 @@
   </tr>
   <tr>
     <th>Sprint Velocity</th>
-    <td>5</td>
+    <td>4</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>20</td>
+    <td>18</td>
   </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.2. Sprint Backlog 4</a></h3></il>
          <table border="1">
-         <br><br>
-         <img src="../images/chapter-5/sprint52-trello/trello.png"/>
-         <br><br>
-         https://trello.com/b/dO38Ex1T/sprint-backlog-2-oncontigo 
   <tr>
     <th>Sprint #</th>
     <th>User Story</th>
@@ -107,7 +103,7 @@
     <td>To-do</td>
   </tr>
 </table>
-         <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.3. Development Evidence for Sprint Review</a></h3></il>
         En esta sección se presentan los commits realizados por los integrantes del equipo para las últimas partes del back end restantes.
 <table border="1">
   <tr>
@@ -198,11 +194,59 @@
     <td>Merge pull request #6 from RenzoRamosR/feature/HealthTracking</td>
     <td>27/06/2024</td>
   </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/roles</td>
+    <td>f0432e8</td>
+    <td>Edit</td>
+    <td>Edit</td>
+    <td>28/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/roles</td>
+    <td>a7fe30c</td>
+    <td>feat: patient and doctor outboundservice added</td>
+    <td>feat: patient and doctor outboundservice added</td>
+    <td>28/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/roles</td>
+    <td>7766825</td>
+    <td>Facade added</td>
+    <td>Facade added</td>
+    <td>28/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>270b92f</td>
+    <td>Merge pull request #7 from RenzoRamosR/feature/roles/td>
+    <td>Merge pull request #7 from RenzoRamosR/feature/roles/td>
+    <td>28/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>feature/HealthTracking</td>
+    <td>e8eb8c0</td>
+    <td>feat(profiles): DBContext adjusted</td>
+    <td>feat(profiles): DBContext adjusted</td>
+    <td>28/06/2024</td>
+  </tr>
+   <tr>
+    <td>RenzoRamosR /oncontigo-platform</td>
+    <td>develop</td>
+    <td>8ddc000</td>
+    <td>Merge pull request #8 from RenzoRamosR/feature/HealthTracking</td>
+    <td>Merge pull request #8 from RenzoRamosR/feature/HealthTracking</td>
+    <td>28/06/2024</td>
+  </tr>
 </table>
          <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.4. Testing Suite Evidence for Sprint Review</a></h3></il>
          No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
 Acceptance Tests automatizados, para Web Services
-<il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.5. Execution Evidence for Sprint Review</a></h3></il>
+<il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.5. Execution Evidence for Sprint Review</a></h3></il>
 Implementacion de la Landing page en el FrontEnd<br>
 <img src="../images/sprint3-images/execution/lamding.png"/> <br>
 Responsive Modals<br>
