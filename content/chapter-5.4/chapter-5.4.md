@@ -266,12 +266,8 @@
          No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y
 Acceptance Tests automatizados, para Web Services
 <il><h3><a href="./content/chapter-5.4/chapter-5.4.md">5.2.4.5. Execution Evidence for Sprint Review</a></h3></il>
-Implementacion de la Landing page en el FrontEnd<br>
-<img src="../images/sprint3-images/execution/lamding.png"/> <br>
-Responsive Modals<br>
-<img src="../images/sprint3-images/execution/modals.png"/> <br>
-SideBar del FrontEND <br>
-<img src="../images/sprint3-images/execution/side.png"/> <br>
+Lista y detalles de medicamentos<br>
+<img src="../images/sprint4-images/medicamentos.png"/> <br>
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.6. Services Documentation Evidence for Sprint Review</a></h3></il>
 <img src="../images/sprint4-images/swagger.png"/> <br>
 
@@ -283,8 +279,8 @@ SideBar del FrontEND <br>
 <img src="../images/sprint3-images/deploy/frontdeploy1.png"/>
 <img src="../images/sprint3-images/deploy/frontdeplo2.png"/>
 
-#### API RESTFul deployment:
-
+#### BackEnd deployment:
+<img src="../images/sprint4-images/deployment.png"/>
 
 <il><h3><a href="./content/chapter-5/chapter-5.md">5.2.4.8.Team Collaboration Insights during Sprint.</a></h3></il>
 FRONTEND & BACKEND
